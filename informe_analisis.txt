@@ -1,0 +1,59 @@
+
+============================================================
+  INSIGHTS Y RECOMENDACIONES
+============================================================
+
+INSIGHT 1 — Concentración geográfica de riesgo
+  Madrid y Barcelona concentran el ~30% de todos los incidentes.
+  → Priorizar recursos de respuesta y tecnología (más cámaras/sensores)
+    en estas zonas. Revisar contratos de mantenimiento preventivo.
+
+INSIGHT 2 — Patrón temporal: fines de semana
+  Los incidentes se concentran sábados y domingos (mayor tráfico de
+  alarmas y robos), probablemente por menor presencia humana en
+  instalaciones empresariales.
+  → Reforzar guardias y patrullas virtuales (SOC 24/7) en fin de semana.
+    Establecer protocolos de escalamiento automático los sábados/domingos.
+
+INSIGHT 3 — Los incidentes críticos reciben atención más rápida
+  Tiempo de respuesta para críticos (~18 min) vs bajos (~110 min).
+  La brecha es correcta pero los incidentes de gravedad media-alta
+  superan los 30-65 min; hay margen de mejora operativa.
+  → Implementar SLA formales: crítico <20 min, alto <30 min, medio <60 min.
+    Automatizar despacho de equipos para incidentes >alto.
+
+INSIGHT 4 — Alarmas falsas y fallos técnicos representan el 45%
+  Alarma (30%) + Fallo técnico (15%) = 45% del total. Gran parte
+  del esfuerzo operativo se destina a incidentes no delictivos.
+  → Implementar un sistema de verificación de doble factor antes de
+    despachar unidades físicas (revisión de cámara + confirmación
+    cliente). Esto liberaría ~30% de la capacidad operativa.
+
+INSIGHT 5 — Dispositivos vs tipo de incidente
+  Las cámaras son el dispositivo más vinculado a robos e intrusiones;
+  las alarmas a incidentes de tipo "alarma". Los sistemas (software)
+  dominan en fallos técnicos.
+  → Invertir en mantenimiento predictivo de cámaras en zonas de alto robo.
+    Evaluar actualización de sistemas en ciudades con alta tasa de
+    fallos técnicos (posible antigüedad del hardware).
+
+INSIGHT 6 — 11.2% de incidentes sin iniciar gestión
+  Los incidentes en estado "abierto" representan 11.2%, lo que
+  indica carga operativa no atendida o falta de asignación automática.
+  → Implementar asignación automática de incidentes al momento del reporte
+    (workflow de ticketing con reglas de prioridad).
+
+INSIGHT 7 — Clientes empresariales generan el 65% de incidentes
+  Mayor volumen desde clientes corporativos, pero también mayor
+  nivel de gravedad promedio.
+  → Desarrollar planes de respuesta personalizados (SLA premium) y
+    reportes automáticos mensuales de incidentes para clientes empresa.
+
+RECOMENDACIONES POWER BI
+  - Añadir alertas visuales cuando el % de críticos supere el 12% histórico.
+  - Usar la segmentación por "pais" + "estado" para identificar filiales
+    con backlog elevado.
+  - El mapa geográfico debe codificar por color la gravedad promedio,
+    no solo el volumen, para detectar zonas de alto riesgo con pocas alertas.
+  - Publicar el dashboard en Power BI Service con actualización diaria
+    desde el CSV/base de datos operacional.

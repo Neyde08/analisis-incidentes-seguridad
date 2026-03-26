@@ -1,0 +1,1201 @@
+﻿id_incidente,fecha_hora_reporte,fecha_hora_resolucion,tipo_incidente,ubicacion,pais,nivel_gravedad,tiempo_respuesta_minutos,estado,dispositivo_asociado,cliente_tipo
+INC-00001,2024-01-02 14:46:26,,alarma,Cali,Colombia,medio,29.0,en proceso,sensor,empresa
+INC-00002,2024-01-03 00:15:02,2024-01-03 01:37:02,intrusión,Zaragoza,España,alto,47.0,cerrado,cámara,empresa
+INC-00003,2024-01-03 02:58:07,2024-01-03 05:00:07,alarma,Rio de Janeiro,Brasil,bajo,81.0,cerrado,sensor,empresa
+INC-00004,2024-01-06 01:41:39,,intrusión,Barcelona,España,medio,,abierto,alarma,empresa
+INC-00005,2024-01-06 07:51:47,2024-01-06 09:03:47,robo,Cartagena,Colombia,alto,22.0,cerrado,sensor,particular
+INC-00006,2024-01-06 15:15:13,2024-01-06 17:06:13,alarma,Bilbao,España,bajo,103.0,cerrado,alarma,empresa
+INC-00007,2024-01-06 22:59:09,2024-01-06 23:40:09,alarma,Zaragoza,España,alto,22.0,cerrado,alarma,empresa
+INC-00008,2024-01-07 04:28:10,2024-01-07 05:50:10,alarma,Ciudad de México,México,bajo,46.0,cerrado,sensor,particular
+INC-00009,2024-01-07 10:21:25,,robo,Cali,Colombia,bajo,,abierto,alarma,particular
+INC-00010,2024-01-07 13:00:01,2024-01-07 14:10:01,robo,Buenos Aires,Argentina,alto,44.0,cerrado,cámara,empresa
+INC-00011,2024-01-07 15:21:18,2024-01-07 17:13:18,alarma,Rosario,Argentina,medio,84.0,cerrado,alarma,empresa
+INC-00012,2024-01-07 17:17:39,2024-01-07 18:42:39,fallo técnico,Ciudad de México,México,medio,80.0,cerrado,sensor,empresa
+INC-00013,2024-01-07 19:04:48,2024-01-07 20:47:48,robo,São Paulo,Brasil,medio,49.0,cerrado,cámara,empresa
+INC-00014,2024-01-08 02:45:41,2024-01-08 03:48:41,robo,Madrid,España,crítico,23.0,cerrado,alarma,particular
+INC-00015,2024-01-08 06:49:08,2024-01-08 08:20:08,intrusión,Bilbao,España,medio,59.0,cerrado,sistema,empresa
+INC-00016,2024-01-09 04:00:31,2024-01-09 05:48:31,alarma,Tijuana,México,bajo,95.0,cerrado,alarma,empresa
+INC-00017,2024-01-09 06:24:37,2024-01-09 08:18:37,robo,Mendoza,Argentina,medio,64.0,cerrado,alarma,empresa
+INC-00018,2024-01-09 21:17:42,2024-01-09 21:57:42,alarma,Madrid,España,medio,31.0,cerrado,sensor,empresa
+INC-00019,2024-01-10 15:08:57,2024-01-10 16:20:57,sabotaje,Madrid,España,medio,49.0,cerrado,cámara,particular
+INC-00020,2024-01-12 11:33:33,2024-01-12 13:27:33,intrusión,Córdoba,Argentina,medio,80.0,cerrado,sensor,particular
+INC-00021,2024-01-13 13:13:08,2024-01-13 14:40:08,alarma,Madrid,España,medio,77.0,cerrado,sensor,empresa
+INC-00022,2024-01-13 14:24:43,,robo,São Paulo,Brasil,crítico,5.0,en proceso,cámara,empresa
+INC-00023,2024-01-13 15:34:51,2024-01-13 16:39:51,sabotaje,Santiago,Chile,alto,31.0,cerrado,alarma,empresa
+INC-00024,2024-01-13 22:15:24,2024-01-14 00:15:24,sabotaje,Valparaíso,Chile,medio,60.0,cerrado,sistema,particular
+INC-00025,2024-01-15 01:57:19,,sabotaje,Guadalajara,México,bajo,,abierto,sistema,empresa
+INC-00026,2024-01-15 01:59:03,2024-01-15 02:46:03,fallo técnico,São Paulo,Brasil,alto,20.0,cerrado,alarma,particular
+INC-00027,2024-01-16 06:47:07,,fallo técnico,Guadalajara,México,medio,,abierto,alarma,empresa
+INC-00028,2024-01-17 01:21:50,2024-01-17 03:19:50,fallo técnico,Guadalajara,México,medio,60.0,cerrado,sensor,particular
+INC-00029,2024-01-17 02:06:38,2024-01-17 04:26:38,alarma,Valencia,España,bajo,105.0,cerrado,sistema,particular
+INC-00030,2024-01-17 15:42:27,,otros,Cali,Colombia,bajo,73.0,en proceso,sistema,empresa
+INC-00031,2024-01-17 16:43:26,2024-01-17 17:30:26,robo,Fortaleza,Brasil,alto,47.0,cerrado,sensor,empresa
+INC-00032,2024-01-17 18:37:46,,intrusión,Brasília,Brasil,medio,46.0,en proceso,alarma,particular
+INC-00033,2024-01-17 21:29:11,2024-01-17 23:31:11,sabotaje,Valparaíso,Chile,medio,69.0,cerrado,alarma,particular
+INC-00034,2024-01-20 02:55:20,,alarma,Buenos Aires,Argentina,medio,,abierto,alarma,empresa
+INC-00035,2024-01-20 04:35:46,2024-01-20 08:06:46,alarma,São Paulo,Brasil,bajo,172.0,cerrado,alarma,empresa
+INC-00036,2024-01-20 11:56:53,2024-01-20 14:09:53,robo,São Paulo,Brasil,bajo,115.0,cerrado,cámara,empresa
+INC-00037,2024-01-20 17:01:11,2024-01-20 18:31:11,intrusión,Medellín,Colombia,medio,49.0,cerrado,cámara,empresa
+INC-00038,2024-01-20 17:11:01,2024-01-20 18:59:01,robo,Madrid,España,medio,98.0,cerrado,alarma,empresa
+INC-00039,2024-01-20 18:43:06,2024-01-20 19:43:06,otros,Guadalajara,México,medio,60.0,cerrado,sensor,empresa
+INC-00040,2024-01-20 19:02:15,2024-01-20 22:09:15,robo,Buenos Aires,Argentina,bajo,184.0,cerrado,cámara,empresa
+INC-00041,2024-01-21 02:20:38,2024-01-21 04:19:38,fallo técnico,Madrid,España,medio,60.0,cerrado,sistema,particular
+INC-00042,2024-01-21 09:19:17,2024-01-21 11:23:17,fallo técnico,Medellín,Colombia,medio,66.0,cerrado,sistema,empresa
+INC-00043,2024-01-23 04:47:44,2024-01-23 05:31:44,otros,Tucumán,Argentina,crítico,14.0,cerrado,sensor,empresa
+INC-00044,2024-01-26 10:50:59,2024-01-26 11:44:59,alarma,Ciudad de México,México,alto,37.0,cerrado,sensor,particular
+INC-00045,2024-01-26 18:57:45,2024-01-26 19:48:45,fallo técnico,Valparaíso,Chile,alto,13.0,cerrado,sensor,particular
+INC-00046,2024-01-27 09:16:58,2024-01-27 09:52:58,intrusión,Mendoza,Argentina,alto,20.0,cerrado,alarma,particular
+INC-00047,2024-01-27 11:50:50,2024-01-27 13:14:50,robo,Valparaíso,Chile,alto,31.0,cerrado,alarma,empresa
+INC-00048,2024-01-27 21:53:55,2024-01-27 23:28:55,otros,Medellín,Colombia,medio,52.0,cerrado,cámara,empresa
+INC-00049,2024-01-28 20:09:41,,fallo técnico,Monterrey,México,alto,5.0,en proceso,sistema,empresa
+INC-00050,2024-01-29 08:11:37,2024-01-29 11:33:37,sabotaje,Buenos Aires,Argentina,bajo,180.0,cerrado,alarma,empresa
+INC-00051,2024-01-30 06:53:03,2024-01-30 08:34:03,robo,Ciudad de México,México,alto,48.0,cerrado,sensor,empresa
+INC-00052,2024-01-31 01:53:04,,otros,Cali,Colombia,medio,,abierto,sistema,empresa
+INC-00053,2024-01-31 03:22:30,,alarma,Santiago,Chile,medio,,abierto,alarma,empresa
+INC-00054,2024-02-01 15:54:25,2024-02-01 18:54:25,fallo técnico,Bogotá,Colombia,bajo,140.0,cerrado,cámara,particular
+INC-00055,2024-02-03 02:09:38,2024-02-03 02:43:38,robo,Bogotá,Colombia,crítico,21.0,cerrado,sistema,empresa
+INC-00056,2024-02-03 08:44:39,2024-02-03 10:27:39,alarma,Brasília,Brasil,medio,66.0,cerrado,alarma,particular
+INC-00057,2024-02-03 11:55:52,2024-02-03 13:04:52,robo,Zaragoza,España,crítico,16.0,cerrado,alarma,empresa
+INC-00058,2024-02-03 12:55:43,2024-02-03 13:34:43,alarma,São Paulo,Brasil,crítico,7.0,cerrado,alarma,empresa
+INC-00059,2024-02-03 19:19:21,2024-02-03 21:56:21,alarma,Monterrey,México,bajo,139.0,cerrado,alarma,particular
+INC-00060,2024-02-03 21:28:23,,alarma,Cartagena,Colombia,bajo,,abierto,alarma,particular
+INC-00061,2024-02-04 02:52:49,2024-02-04 03:09:49,otros,Barcelona,España,medio,15.0,cerrado,sistema,particular
+INC-00062,2024-02-04 10:16:06,2024-02-04 10:50:06,alarma,Bilbao,España,alto,24.0,cerrado,sistema,empresa
+INC-00063,2024-02-04 21:45:55,2024-02-04 23:27:55,intrusión,Cali,Colombia,bajo,55.0,cerrado,sensor,particular
+INC-00064,2024-02-04 23:08:05,2024-02-05 01:53:05,fallo técnico,São Paulo,Brasil,bajo,131.0,cerrado,sistema,particular
+INC-00065,2024-02-08 09:04:41,2024-02-08 11:14:41,alarma,Valparaíso,Chile,medio,94.0,cerrado,alarma,empresa
+INC-00066,2024-02-10 10:38:03,2024-02-10 12:04:03,robo,Madrid,España,medio,82.0,cerrado,cámara,empresa
+INC-00067,2024-02-11 03:23:19,2024-02-11 04:16:19,sabotaje,Buenos Aires,Argentina,alto,34.0,cerrado,alarma,particular
+INC-00068,2024-02-11 05:41:35,2024-02-11 07:06:35,alarma,Tucumán,Argentina,medio,80.0,cerrado,alarma,empresa
+INC-00069,2024-02-11 10:09:05,,robo,Madrid,España,bajo,,abierto,alarma,empresa
+INC-00070,2024-02-11 15:07:24,,alarma,São Paulo,Brasil,bajo,,abierto,sensor,empresa
+INC-00071,2024-02-11 15:14:04,,robo,Madrid,España,medio,30.0,en proceso,cámara,empresa
+INC-00072,2024-02-11 17:07:19,2024-02-11 17:32:19,intrusión,São Paulo,Brasil,crítico,18.0,cerrado,sensor,empresa
+INC-00073,2024-02-11 20:39:24,,intrusión,Ciudad de México,México,bajo,60.0,en proceso,cámara,empresa
+INC-00074,2024-02-13 01:50:42,2024-02-13 02:44:42,intrusión,Madrid,España,alto,8.0,cerrado,cámara,empresa
+INC-00075,2024-02-13 22:56:36,,robo,Buenos Aires,Argentina,bajo,38.0,en proceso,cámara,empresa
+INC-00076,2024-02-14 11:18:13,2024-02-14 12:26:13,alarma,Bilbao,España,medio,51.0,cerrado,alarma,empresa
+INC-00077,2024-02-14 18:10:08,2024-02-14 19:57:08,robo,Rio de Janeiro,Brasil,alto,51.0,cerrado,cámara,empresa
+INC-00078,2024-02-15 04:40:16,,fallo técnico,Tucumán,Argentina,medio,19.0,en proceso,sensor,empresa
+INC-00079,2024-02-16 16:39:24,,robo,Madrid,España,bajo,,abierto,alarma,empresa
+INC-00080,2024-02-16 22:19:20,2024-02-16 23:21:20,otros,Barcelona,España,crítico,23.0,cerrado,sistema,empresa
+INC-00081,2024-02-17 01:18:22,2024-02-17 02:43:22,robo,Fortaleza,Brasil,medio,53.0,cerrado,cámara,particular
+INC-00082,2024-02-17 14:01:07,2024-02-17 16:01:07,alarma,São Paulo,Brasil,bajo,69.0,cerrado,cámara,empresa
+INC-00083,2024-02-18 09:29:10,,robo,Buenos Aires,Argentina,bajo,39.0,en proceso,cámara,empresa
+INC-00084,2024-02-19 01:25:28,2024-02-19 03:28:28,fallo técnico,Guadalajara,México,medio,80.0,cerrado,alarma,particular
+INC-00085,2024-02-21 01:05:27,2024-02-21 02:45:27,intrusión,Bogotá,Colombia,alto,40.0,cerrado,cámara,empresa
+INC-00086,2024-02-21 15:57:43,,intrusión,Sevilla,España,bajo,,abierto,cámara,particular
+INC-00087,2024-02-22 11:29:39,2024-02-22 12:02:39,fallo técnico,São Paulo,Brasil,crítico,12.0,cerrado,sistema,empresa
+INC-00088,2024-02-23 13:33:07,2024-02-23 14:33:07,alarma,Guadalajara,México,bajo,20.0,cerrado,alarma,empresa
+INC-00089,2024-02-23 16:02:25,2024-02-23 16:40:25,sabotaje,São Paulo,Brasil,crítico,22.0,cerrado,cámara,empresa
+INC-00090,2024-02-23 19:03:43,,alarma,Concepción,Chile,bajo,125.0,en proceso,cámara,particular
+INC-00091,2024-02-25 04:29:53,2024-02-25 05:42:53,robo,Brasília,Brasil,crítico,28.0,cerrado,alarma,empresa
+INC-00092,2024-02-25 05:32:54,2024-02-25 06:29:54,robo,Valencia,España,alto,29.0,cerrado,alarma,empresa
+INC-00093,2024-02-25 08:12:39,2024-02-25 08:48:39,alarma,Buenos Aires,Argentina,crítico,19.0,cerrado,alarma,empresa
+INC-00094,2024-02-25 11:39:48,2024-02-25 12:33:48,fallo técnico,Bilbao,España,crítico,39.0,cerrado,sistema,particular
+INC-00095,2024-02-25 20:06:03,2024-02-25 21:51:03,intrusión,Barcelona,España,medio,63.0,cerrado,alarma,particular
+INC-00096,2024-02-25 21:15:16,2024-02-25 23:56:16,robo,Cali,Colombia,bajo,141.0,cerrado,alarma,empresa
+INC-00097,2024-02-27 01:51:20,2024-02-27 03:34:20,fallo técnico,Buenos Aires,Argentina,medio,82.0,cerrado,sensor,empresa
+INC-00098,2024-02-27 09:14:52,2024-02-27 09:34:52,sabotaje,Buenos Aires,Argentina,alto,7.0,cerrado,cámara,empresa
+INC-00099,2024-02-28 15:32:58,2024-02-28 16:45:58,robo,Barcelona,España,medio,44.0,cerrado,cámara,empresa
+INC-00100,2024-02-29 14:56:44,2024-02-29 17:44:44,otros,Barcelona,España,bajo,130.0,cerrado,alarma,empresa
+INC-00101,2024-03-02 03:54:29,2024-03-02 04:53:29,robo,Ciudad de México,México,crítico,38.0,cerrado,cámara,empresa
+INC-00102,2024-03-02 08:30:53,2024-03-02 09:13:53,robo,Ciudad de México,México,medio,42.0,cerrado,cámara,empresa
+INC-00103,2024-03-05 07:53:33,2024-03-05 09:06:33,robo,Bilbao,España,crítico,15.0,cerrado,cámara,empresa
+INC-00104,2024-03-05 10:00:45,,robo,Guadalajara,México,bajo,69.0,en proceso,cámara,particular
+INC-00105,2024-03-08 14:05:05,2024-03-08 17:08:05,robo,Sevilla,España,bajo,142.0,cerrado,cámara,empresa
+INC-00106,2024-03-09 02:05:27,2024-03-09 03:27:27,sabotaje,Ciudad de México,México,alto,23.0,cerrado,cámara,particular
+INC-00107,2024-03-09 11:37:30,,robo,Madrid,España,bajo,,abierto,cámara,empresa
+INC-00108,2024-03-09 17:25:35,2024-03-09 18:13:35,alarma,São Paulo,Brasil,medio,48.0,cerrado,alarma,empresa
+INC-00109,2024-03-09 20:23:23,2024-03-09 22:37:23,alarma,Cali,Colombia,bajo,96.0,cerrado,alarma,particular
+INC-00110,2024-03-10 03:33:06,,robo,Barcelona,España,medio,48.0,en proceso,cámara,particular
+INC-00111,2024-03-10 16:35:20,,otros,São Paulo,Brasil,bajo,,abierto,sistema,empresa
+INC-00112,2024-03-10 23:42:40,,fallo técnico,Brasília,Brasil,bajo,,abierto,sensor,particular
+INC-00113,2024-03-11 09:07:40,,sabotaje,Rio de Janeiro,Brasil,alto,29.0,en proceso,sistema,empresa
+INC-00114,2024-03-11 12:08:06,2024-03-11 13:06:06,robo,Valencia,España,bajo,15.0,cerrado,cámara,empresa
+INC-00115,2024-03-13 06:41:31,2024-03-13 08:45:31,alarma,Córdoba,Argentina,bajo,113.0,cerrado,alarma,particular
+INC-00116,2024-03-14 04:31:41,,robo,Madrid,España,medio,,abierto,cámara,empresa
+INC-00117,2024-03-14 10:14:20,2024-03-14 11:27:20,alarma,Ciudad de México,México,bajo,47.0,cerrado,alarma,particular
+INC-00118,2024-03-15 19:36:06,2024-03-15 21:44:06,intrusión,Monterrey,México,bajo,93.0,cerrado,cámara,empresa
+INC-00119,2024-03-16 10:41:04,,sabotaje,Zaragoza,España,medio,60.0,en proceso,alarma,particular
+INC-00120,2024-03-16 11:37:19,2024-03-16 14:36:19,fallo técnico,Salvador,Brasil,bajo,134.0,cerrado,cámara,particular
+INC-00121,2024-03-16 12:10:46,2024-03-16 13:02:46,otros,Valencia,España,crítico,21.0,cerrado,alarma,particular
+INC-00122,2024-03-16 16:16:08,2024-03-16 17:36:08,otros,Medellín,Colombia,alto,32.0,cerrado,cámara,particular
+INC-00123,2024-03-16 21:03:09,,robo,São Paulo,Brasil,bajo,,abierto,alarma,empresa
+INC-00124,2024-03-17 02:12:57,2024-03-17 03:44:57,alarma,Brasília,Brasil,medio,67.0,cerrado,alarma,empresa
+INC-00125,2024-03-17 02:21:38,2024-03-17 05:33:38,robo,Bilbao,España,bajo,158.0,cerrado,cámara,particular
+INC-00126,2024-03-17 08:21:39,2024-03-17 08:38:39,alarma,Córdoba,Argentina,crítico,12.0,cerrado,alarma,empresa
+INC-00127,2024-03-19 04:59:01,,alarma,Ciudad de México,México,bajo,22.0,en proceso,cámara,empresa
+INC-00128,2024-03-19 08:07:44,,fallo técnico,Zaragoza,España,alto,12.0,en proceso,sistema,particular
+INC-00129,2024-03-21 15:52:04,2024-03-21 18:32:04,otros,Córdoba,Argentina,bajo,156.0,cerrado,sensor,particular
+INC-00130,2024-03-21 20:35:17,,alarma,Madrid,España,bajo,,abierto,alarma,empresa
+INC-00131,2024-03-23 04:04:08,2024-03-23 05:02:08,robo,Cartagena,Colombia,crítico,24.0,cerrado,cámara,empresa
+INC-00132,2024-03-23 07:24:44,2024-03-23 09:56:44,robo,Ciudad de México,México,bajo,151.0,cerrado,cámara,empresa
+INC-00133,2024-03-23 10:47:59,2024-03-23 13:55:59,robo,Santiago,Chile,bajo,131.0,cerrado,sistema,particular
+INC-00134,2024-03-23 20:11:20,,fallo técnico,Barcelona,España,medio,61.0,en proceso,sistema,empresa
+INC-00135,2024-03-23 20:48:02,2024-03-24 00:08:02,robo,Valencia,España,bajo,158.0,cerrado,cámara,empresa
+INC-00136,2024-03-24 03:19:50,2024-03-24 05:50:50,alarma,Rio de Janeiro,Brasil,bajo,123.0,cerrado,alarma,particular
+INC-00137,2024-03-24 16:45:23,2024-03-24 17:55:23,sabotaje,Valparaíso,Chile,alto,27.0,cerrado,alarma,empresa
+INC-00138,2024-03-24 18:36:33,,sabotaje,Santiago,Chile,alto,14.0,en proceso,cámara,particular
+INC-00139,2024-03-24 21:27:31,,robo,Monterrey,México,medio,,abierto,cámara,empresa
+INC-00140,2024-03-24 23:34:03,,alarma,Rio de Janeiro,Brasil,alto,28.0,en proceso,alarma,empresa
+INC-00141,2024-03-25 07:33:45,,otros,Córdoba,Argentina,crítico,7.0,en proceso,sistema,particular
+INC-00142,2024-03-25 12:45:50,2024-03-25 14:19:50,intrusión,Barcelona,España,medio,56.0,cerrado,sensor,particular
+INC-00143,2024-03-26 19:09:05,2024-03-26 21:15:05,otros,Cali,Colombia,bajo,104.0,cerrado,sensor,empresa
+INC-00144,2024-03-27 10:24:46,2024-03-27 11:16:46,intrusión,Rio de Janeiro,Brasil,bajo,28.0,cerrado,cámara,empresa
+INC-00145,2024-03-28 07:42:42,,robo,Monterrey,México,bajo,,abierto,alarma,particular
+INC-00146,2024-03-28 12:25:44,,otros,Córdoba,Argentina,medio,16.0,en proceso,sistema,empresa
+INC-00147,2024-03-28 13:31:35,2024-03-28 16:30:35,sabotaje,Madrid,España,bajo,130.0,cerrado,cámara,particular
+INC-00148,2024-03-28 19:30:55,2024-03-28 20:55:55,robo,Concepción,Chile,alto,34.0,cerrado,alarma,empresa
+INC-00149,2024-03-28 23:09:22,2024-03-29 01:05:22,robo,Bilbao,España,medio,72.0,cerrado,cámara,empresa
+INC-00150,2024-03-29 14:15:48,2024-03-29 15:34:48,alarma,Barcelona,España,bajo,79.0,cerrado,cámara,particular
+INC-00151,2024-03-30 01:06:33,,alarma,Buenos Aires,Argentina,bajo,54.0,en proceso,alarma,empresa
+INC-00152,2024-03-30 03:49:51,,sabotaje,Ciudad de México,México,medio,20.0,en proceso,cámara,particular
+INC-00153,2024-03-30 04:26:12,2024-03-30 05:02:12,robo,Córdoba,Argentina,alto,24.0,cerrado,sensor,empresa
+INC-00154,2024-03-30 05:50:16,,alarma,Madrid,España,medio,33.0,en proceso,alarma,particular
+INC-00155,2024-03-30 13:11:10,2024-03-30 16:27:10,intrusión,Madrid,España,bajo,182.0,cerrado,alarma,empresa
+INC-00156,2024-03-30 14:47:26,2024-03-30 16:46:26,sabotaje,Monterrey,México,medio,72.0,cerrado,sensor,particular
+INC-00157,2024-03-30 21:40:38,2024-03-30 22:25:38,alarma,Ciudad de México,México,medio,44.0,cerrado,alarma,empresa
+INC-00158,2024-03-30 22:38:59,2024-03-31 00:20:59,intrusión,Rio de Janeiro,Brasil,medio,54.0,cerrado,cámara,particular
+INC-00159,2024-03-31 03:15:27,,otros,São Paulo,Brasil,alto,21.0,en proceso,sensor,empresa
+INC-00160,2024-03-31 09:22:26,2024-03-31 11:22:26,intrusión,Ciudad de México,México,medio,62.0,cerrado,sistema,empresa
+INC-00161,2024-03-31 13:40:27,2024-03-31 14:40:27,sabotaje,Rio de Janeiro,Brasil,alto,15.0,cerrado,sistema,particular
+INC-00162,2024-03-31 20:58:17,2024-03-31 22:13:17,fallo técnico,Santiago,Chile,medio,53.0,cerrado,sistema,empresa
+INC-00163,2024-04-01 06:58:52,2024-04-01 07:53:52,intrusión,Santiago,Chile,bajo,43.0,cerrado,cámara,particular
+INC-00164,2024-04-01 15:05:43,2024-04-01 16:13:43,sabotaje,Buenos Aires,Argentina,medio,63.0,cerrado,sensor,empresa
+INC-00165,2024-04-02 04:56:37,2024-04-02 06:21:37,otros,Valencia,España,medio,33.0,cerrado,sensor,particular
+INC-00166,2024-04-02 19:14:01,2024-04-02 20:52:01,robo,Barcelona,España,medio,59.0,cerrado,cámara,empresa
+INC-00167,2024-04-02 22:41:58,,fallo técnico,Ciudad de México,México,bajo,,abierto,sistema,particular
+INC-00168,2024-04-05 10:29:43,,intrusión,Salvador,Brasil,bajo,,abierto,cámara,empresa
+INC-00169,2024-04-05 16:38:01,2024-04-05 18:44:01,alarma,Bogotá,Colombia,bajo,86.0,cerrado,sistema,empresa
+INC-00170,2024-04-06 06:30:24,2024-04-06 08:39:24,robo,Cartagena,Colombia,bajo,110.0,cerrado,alarma,particular
+INC-00171,2024-04-07 04:30:20,,alarma,Rio de Janeiro,Brasil,alto,16.0,en proceso,sensor,empresa
+INC-00172,2024-04-07 09:02:46,2024-04-07 09:58:46,fallo técnico,Bogotá,Colombia,alto,42.0,cerrado,sistema,empresa
+INC-00173,2024-04-07 10:42:16,2024-04-07 11:25:16,fallo técnico,Puebla,México,alto,29.0,cerrado,sistema,particular
+INC-00174,2024-04-08 18:35:53,2024-04-08 20:58:53,otros,Rio de Janeiro,Brasil,bajo,112.0,cerrado,cámara,particular
+INC-00175,2024-04-10 18:31:21,2024-04-10 20:57:21,robo,Fortaleza,Brasil,bajo,123.0,cerrado,cámara,particular
+INC-00176,2024-04-11 11:21:52,2024-04-11 12:56:52,intrusión,Santiago,Chile,medio,93.0,cerrado,alarma,particular
+INC-00177,2024-04-12 12:50:21,2024-04-12 14:05:21,intrusión,Rosario,Argentina,bajo,58.0,cerrado,sensor,empresa
+INC-00178,2024-04-13 08:39:38,,fallo técnico,Buenos Aires,Argentina,bajo,24.0,en proceso,cámara,empresa
+INC-00179,2024-04-13 17:53:47,2024-04-13 19:33:47,fallo técnico,Rio de Janeiro,Brasil,medio,55.0,cerrado,sistema,empresa
+INC-00180,2024-04-13 19:55:16,2024-04-13 21:44:16,alarma,Buenos Aires,Argentina,medio,64.0,cerrado,alarma,particular
+INC-00181,2024-04-14 03:22:54,,intrusión,Puebla,México,bajo,,abierto,sensor,empresa
+INC-00182,2024-04-14 04:45:28,,sabotaje,Bilbao,España,medio,43.0,en proceso,cámara,empresa
+INC-00183,2024-04-14 11:35:20,2024-04-14 12:27:20,alarma,Rosario,Argentina,medio,52.0,cerrado,alarma,particular
+INC-00184,2024-04-15 02:36:46,2024-04-15 03:34:46,robo,Valencia,España,bajo,46.0,cerrado,alarma,empresa
+INC-00185,2024-04-18 14:20:26,2024-04-18 16:26:26,fallo técnico,Zaragoza,España,medio,74.0,cerrado,sistema,empresa
+INC-00186,2024-04-18 19:51:39,,fallo técnico,Tijuana,México,bajo,71.0,en proceso,sistema,empresa
+INC-00187,2024-04-19 07:20:35,2024-04-19 10:29:35,intrusión,Santiago,Chile,bajo,182.0,cerrado,cámara,particular
+INC-00188,2024-04-19 09:28:23,,robo,Rio de Janeiro,Brasil,medio,35.0,en proceso,alarma,particular
+INC-00189,2024-04-19 11:24:27,2024-04-19 13:34:27,robo,Madrid,España,medio,94.0,cerrado,cámara,empresa
+INC-00190,2024-04-19 20:37:16,2024-04-19 21:23:16,alarma,Bogotá,Colombia,alto,14.0,cerrado,alarma,particular
+INC-00191,2024-04-20 09:36:43,2024-04-20 11:12:43,fallo técnico,Bogotá,Colombia,bajo,65.0,cerrado,sistema,empresa
+INC-00192,2024-04-20 15:31:14,2024-04-20 17:02:14,alarma,Barcelona,España,bajo,81.0,cerrado,cámara,empresa
+INC-00193,2024-04-20 17:23:07,2024-04-20 19:16:07,sabotaje,Rio de Janeiro,Brasil,medio,78.0,cerrado,alarma,particular
+INC-00194,2024-04-20 20:24:14,2024-04-20 22:19:14,intrusión,Buenos Aires,Argentina,medio,103.0,cerrado,cámara,particular
+INC-00195,2024-04-21 06:34:28,2024-04-21 08:10:28,robo,São Paulo,Brasil,medio,54.0,cerrado,cámara,particular
+INC-00196,2024-04-21 13:13:39,2024-04-21 14:36:39,robo,Cartagena,Colombia,medio,36.0,cerrado,cámara,empresa
+INC-00197,2024-04-21 19:05:53,2024-04-21 20:03:53,robo,Ciudad de México,México,alto,22.0,cerrado,alarma,empresa
+INC-00198,2024-04-22 05:50:43,2024-04-22 07:20:43,alarma,Bilbao,España,medio,47.0,cerrado,alarma,empresa
+INC-00199,2024-04-22 14:20:26,2024-04-22 15:59:26,fallo técnico,Salvador,Brasil,medio,56.0,cerrado,sistema,empresa
+INC-00200,2024-04-24 15:48:27,2024-04-24 17:14:27,sabotaje,Concepción,Chile,alto,48.0,cerrado,sensor,empresa
+INC-00201,2024-04-24 17:57:32,2024-04-24 19:10:32,robo,São Paulo,Brasil,crítico,37.0,cerrado,alarma,empresa
+INC-00202,2024-04-25 20:38:04,,intrusión,Barcelona,España,medio,22.0,en proceso,cámara,empresa
+INC-00203,2024-04-26 00:15:51,2024-04-26 00:59:51,robo,Zaragoza,España,medio,7.0,cerrado,cámara,empresa
+INC-00204,2024-04-26 15:33:40,2024-04-26 16:51:40,robo,São Paulo,Brasil,medio,70.0,cerrado,cámara,empresa
+INC-00205,2024-04-27 17:48:17,,intrusión,Buenos Aires,Argentina,crítico,8.0,en proceso,alarma,particular
+INC-00206,2024-04-28 01:00:54,,robo,Buenos Aires,Argentina,alto,10.0,en proceso,cámara,particular
+INC-00207,2024-04-28 07:46:28,2024-04-28 09:47:28,intrusión,São Paulo,Brasil,medio,62.0,cerrado,cámara,empresa
+INC-00208,2024-04-28 12:07:35,2024-04-28 13:29:35,robo,Buenos Aires,Argentina,alto,46.0,cerrado,alarma,empresa
+INC-00209,2024-04-28 14:25:30,2024-04-28 16:29:30,alarma,Buenos Aires,Argentina,bajo,70.0,cerrado,sensor,empresa
+INC-00210,2024-04-28 17:08:24,2024-04-28 19:10:24,alarma,Rosario,Argentina,bajo,108.0,cerrado,sensor,empresa
+INC-00211,2024-04-28 19:03:19,2024-04-28 21:26:19,intrusión,Buenos Aires,Argentina,medio,87.0,cerrado,alarma,particular
+INC-00212,2024-04-29 01:19:31,2024-04-29 02:57:31,alarma,Sevilla,España,bajo,65.0,cerrado,alarma,empresa
+INC-00213,2024-04-30 08:45:28,,fallo técnico,Valparaíso,Chile,medio,,abierto,sistema,empresa
+INC-00214,2024-04-30 16:27:49,,fallo técnico,Madrid,España,alto,36.0,en proceso,sensor,empresa
+INC-00215,2024-04-30 21:08:57,,otros,Ciudad de México,México,bajo,39.0,en proceso,sistema,particular
+INC-00216,2024-05-01 03:25:23,,robo,Brasília,Brasil,bajo,,abierto,sensor,particular
+INC-00217,2024-05-01 22:09:44,,alarma,Guadalajara,México,medio,55.0,en proceso,sensor,empresa
+INC-00218,2024-05-02 23:27:11,2024-05-03 00:17:11,alarma,Zaragoza,España,alto,49.0,cerrado,sistema,empresa
+INC-00219,2024-05-04 14:42:33,,fallo técnico,Monterrey,México,alto,21.0,en proceso,alarma,particular
+INC-00220,2024-05-04 18:59:06,2024-05-04 19:50:06,alarma,Córdoba,Argentina,crítico,7.0,cerrado,sensor,empresa
+INC-00221,2024-05-05 02:55:02,2024-05-05 04:23:02,sabotaje,São Paulo,Brasil,alto,45.0,cerrado,sistema,particular
+INC-00222,2024-05-06 22:28:40,2024-05-06 23:27:40,alarma,Monterrey,México,alto,25.0,cerrado,sensor,empresa
+INC-00223,2024-05-09 02:43:27,,otros,Bogotá,Colombia,bajo,,abierto,alarma,particular
+INC-00224,2024-05-11 10:07:02,2024-05-11 11:21:02,intrusión,Guadalajara,México,medio,35.0,cerrado,cámara,empresa
+INC-00225,2024-05-11 13:30:34,,fallo técnico,Valparaíso,Chile,alto,18.0,en proceso,sistema,empresa
+INC-00226,2024-05-11 17:10:16,2024-05-11 18:08:16,otros,Barcelona,España,alto,23.0,cerrado,alarma,particular
+INC-00227,2024-05-11 21:38:38,2024-05-11 22:51:38,fallo técnico,Madrid,España,alto,17.0,cerrado,sensor,particular
+INC-00228,2024-05-12 01:12:06,2024-05-12 01:50:06,robo,Mendoza,Argentina,crítico,9.0,cerrado,cámara,particular
+INC-00229,2024-05-12 01:53:07,2024-05-12 03:21:07,sabotaje,São Paulo,Brasil,medio,88.0,cerrado,sensor,empresa
+INC-00230,2024-05-12 05:38:31,,robo,Rio de Janeiro,Brasil,medio,,abierto,cámara,empresa
+INC-00231,2024-05-12 15:33:46,2024-05-12 17:21:46,fallo técnico,Rio de Janeiro,Brasil,alto,48.0,cerrado,sistema,empresa
+INC-00232,2024-05-12 22:14:32,,intrusión,Guadalajara,México,medio,26.0,en proceso,cámara,empresa
+INC-00233,2024-05-14 00:37:32,2024-05-14 02:17:32,robo,Barcelona,España,alto,57.0,cerrado,sistema,empresa
+INC-00234,2024-05-15 22:20:53,2024-05-15 23:42:53,intrusión,Barcelona,España,alto,22.0,cerrado,alarma,empresa
+INC-00235,2024-05-15 22:33:27,,robo,Buenos Aires,Argentina,bajo,,abierto,alarma,empresa
+INC-00236,2024-05-16 19:44:56,2024-05-16 20:44:56,otros,Barcelona,España,crítico,19.0,cerrado,sensor,particular
+INC-00237,2024-05-16 21:37:52,2024-05-17 00:06:52,alarma,Buenos Aires,Argentina,bajo,146.0,cerrado,alarma,empresa
+INC-00238,2024-05-17 03:47:35,2024-05-17 05:25:35,robo,São Paulo,Brasil,alto,44.0,cerrado,sistema,empresa
+INC-00239,2024-05-17 08:21:33,2024-05-17 10:58:33,robo,Madrid,España,bajo,97.0,cerrado,cámara,empresa
+INC-00240,2024-05-18 01:17:23,,intrusión,Barcelona,España,bajo,,abierto,sistema,empresa
+INC-00241,2024-05-18 03:52:01,,alarma,Buenos Aires,Argentina,crítico,,abierto,alarma,particular
+INC-00242,2024-05-18 12:21:53,2024-05-18 13:17:53,robo,Buenos Aires,Argentina,alto,36.0,cerrado,cámara,particular
+INC-00243,2024-05-18 14:02:18,2024-05-18 14:43:18,robo,Rio de Janeiro,Brasil,crítico,14.0,cerrado,cámara,empresa
+INC-00244,2024-05-19 12:35:32,,alarma,Valparaíso,Chile,medio,38.0,en proceso,alarma,particular
+INC-00245,2024-05-19 15:34:00,2024-05-19 17:32:00,robo,Guadalajara,México,bajo,92.0,cerrado,cámara,empresa
+INC-00246,2024-05-19 19:44:12,2024-05-19 23:11:12,alarma,Rio de Janeiro,Brasil,bajo,190.0,cerrado,alarma,empresa
+INC-00247,2024-05-19 20:51:26,,robo,Ciudad de México,México,bajo,,abierto,cámara,particular
+INC-00248,2024-05-20 07:02:26,2024-05-20 09:02:26,sabotaje,Concepción,Chile,bajo,113.0,cerrado,sistema,particular
+INC-00249,2024-05-20 12:18:35,2024-05-20 13:27:35,robo,Barcelona,España,crítico,26.0,cerrado,cámara,empresa
+INC-00250,2024-05-20 23:37:15,2024-05-21 02:20:15,alarma,Puebla,México,bajo,130.0,cerrado,cámara,particular
+INC-00251,2024-05-21 06:28:26,2024-05-21 08:21:26,fallo técnico,Brasília,Brasil,medio,84.0,cerrado,sistema,empresa
+INC-00252,2024-05-21 18:15:14,2024-05-21 21:02:14,alarma,Antofagasta,Chile,bajo,136.0,cerrado,sensor,empresa
+INC-00253,2024-05-22 15:01:23,2024-05-22 17:21:23,robo,Valparaíso,Chile,bajo,117.0,cerrado,alarma,empresa
+INC-00254,2024-05-23 01:53:49,2024-05-23 02:45:49,alarma,Bogotá,Colombia,crítico,19.0,cerrado,alarma,empresa
+INC-00255,2024-05-23 18:47:32,2024-05-23 20:52:32,sabotaje,Buenos Aires,Argentina,bajo,77.0,cerrado,alarma,particular
+INC-00256,2024-05-25 02:02:58,2024-05-25 02:46:58,sabotaje,Guadalajara,México,alto,42.0,cerrado,cámara,particular
+INC-00257,2024-05-25 05:50:19,2024-05-25 07:14:19,alarma,Buenos Aires,Argentina,alto,28.0,cerrado,sensor,particular
+INC-00258,2024-05-25 07:39:53,2024-05-25 08:55:53,alarma,Rosario,Argentina,alto,30.0,cerrado,alarma,particular
+INC-00259,2024-05-25 10:02:08,2024-05-25 11:49:08,alarma,Medellín,Colombia,bajo,93.0,cerrado,alarma,particular
+INC-00260,2024-05-26 18:26:03,2024-05-26 19:10:03,intrusión,Valencia,España,alto,41.0,cerrado,cámara,empresa
+INC-00261,2024-05-27 15:55:33,2024-05-27 16:20:33,robo,Córdoba,Argentina,crítico,8.0,cerrado,alarma,particular
+INC-00262,2024-05-27 16:18:23,2024-05-27 19:39:23,sabotaje,Rio de Janeiro,Brasil,bajo,143.0,cerrado,cámara,particular
+INC-00263,2024-05-29 09:58:53,2024-05-29 12:05:53,alarma,Tucumán,Argentina,bajo,101.0,cerrado,sensor,particular
+INC-00264,2024-05-29 12:04:34,2024-05-29 13:18:34,sabotaje,Bilbao,España,alto,40.0,cerrado,sensor,particular
+INC-00265,2024-05-30 07:30:39,2024-05-30 09:11:39,intrusión,Rosario,Argentina,bajo,73.0,cerrado,sensor,particular
+INC-00266,2024-05-30 14:11:10,2024-05-30 15:37:10,robo,Barcelona,España,medio,66.0,cerrado,cámara,empresa
+INC-00267,2024-05-31 02:13:55,2024-05-31 02:56:55,intrusión,Bilbao,España,alto,43.0,cerrado,alarma,particular
+INC-00268,2024-05-31 11:02:09,2024-05-31 11:54:09,robo,Fortaleza,Brasil,alto,27.0,cerrado,sensor,particular
+INC-00269,2024-05-31 23:43:48,2024-06-01 00:18:48,fallo técnico,Madrid,España,crítico,23.0,cerrado,sistema,particular
+INC-00270,2024-06-01 00:59:02,2024-06-01 02:27:02,alarma,Buenos Aires,Argentina,alto,67.0,cerrado,alarma,empresa
+INC-00271,2024-06-01 11:37:35,2024-06-01 12:13:35,fallo técnico,Rio de Janeiro,Brasil,alto,31.0,cerrado,sistema,empresa
+INC-00272,2024-06-01 15:31:11,2024-06-01 16:33:11,fallo técnico,Medellín,Colombia,alto,6.0,cerrado,sistema,empresa
+INC-00273,2024-06-01 16:08:20,,alarma,Buenos Aires,Argentina,bajo,,abierto,cámara,particular
+INC-00274,2024-06-02 01:35:51,2024-06-02 02:38:51,robo,São Paulo,Brasil,bajo,27.0,cerrado,sensor,empresa
+INC-00275,2024-06-02 04:11:49,2024-06-02 06:14:49,robo,Madrid,España,medio,72.0,cerrado,cámara,empresa
+INC-00276,2024-06-02 05:30:57,,alarma,Barcelona,España,bajo,31.0,en proceso,alarma,particular
+INC-00277,2024-06-02 11:38:45,,alarma,Puebla,México,bajo,95.0,en proceso,alarma,empresa
+INC-00278,2024-06-02 16:28:07,2024-06-02 17:44:07,intrusión,São Paulo,Brasil,alto,32.0,cerrado,alarma,empresa
+INC-00279,2024-06-03 06:21:26,2024-06-03 08:04:26,fallo técnico,Madrid,España,bajo,76.0,cerrado,sistema,empresa
+INC-00280,2024-06-05 09:05:32,,alarma,Barcelona,España,alto,6.0,en proceso,sensor,empresa
+INC-00281,2024-06-06 15:46:55,2024-06-06 17:53:55,otros,Rio de Janeiro,Brasil,medio,69.0,cerrado,sensor,empresa
+INC-00282,2024-06-06 19:46:57,,sabotaje,Ciudad de México,México,crítico,10.0,en proceso,alarma,empresa
+INC-00283,2024-06-06 22:21:02,2024-06-06 22:56:02,robo,Buenos Aires,Argentina,medio,25.0,cerrado,sensor,empresa
+INC-00284,2024-06-07 14:22:09,2024-06-07 15:26:09,intrusión,Salvador,Brasil,alto,43.0,cerrado,alarma,empresa
+INC-00285,2024-06-07 23:48:07,2024-06-08 00:20:07,alarma,Ciudad de México,México,alto,13.0,cerrado,alarma,particular
+INC-00286,2024-06-08 00:33:52,2024-06-08 01:03:52,fallo técnico,Córdoba,Argentina,alto,26.0,cerrado,alarma,empresa
+INC-00287,2024-06-08 12:37:40,,alarma,Bilbao,España,medio,22.0,en proceso,sensor,empresa
+INC-00288,2024-06-08 19:13:45,2024-06-08 20:08:45,robo,Buenos Aires,Argentina,alto,49.0,cerrado,cámara,empresa
+INC-00289,2024-06-08 23:34:32,2024-06-09 01:20:32,otros,Córdoba,Argentina,bajo,105.0,cerrado,sensor,empresa
+INC-00290,2024-06-09 17:04:10,,robo,Barcelona,España,bajo,,abierto,alarma,empresa
+INC-00291,2024-06-10 03:57:36,2024-06-10 04:32:36,alarma,Santiago,Chile,crítico,5.0,cerrado,alarma,empresa
+INC-00292,2024-06-10 15:05:00,2024-06-10 16:07:00,alarma,São Paulo,Brasil,medio,35.0,cerrado,alarma,particular
+INC-00293,2024-06-11 16:02:51,,alarma,Buenos Aires,Argentina,bajo,,abierto,alarma,empresa
+INC-00294,2024-06-11 22:32:25,2024-06-12 00:37:25,alarma,São Paulo,Brasil,medio,74.0,cerrado,alarma,empresa
+INC-00295,2024-06-12 18:30:51,2024-06-12 19:35:51,otros,Valparaíso,Chile,medio,64.0,cerrado,sensor,empresa
+INC-00296,2024-06-12 18:42:55,2024-06-12 19:32:55,alarma,Zaragoza,España,crítico,13.0,cerrado,alarma,particular
+INC-00297,2024-06-12 21:15:17,2024-06-12 22:39:17,robo,Ciudad de México,México,alto,33.0,cerrado,alarma,particular
+INC-00298,2024-06-14 01:20:36,2024-06-14 02:41:36,otros,Rosario,Argentina,medio,41.0,cerrado,cámara,empresa
+INC-00299,2024-06-15 06:42:17,2024-06-15 09:09:17,intrusión,Buenos Aires,Argentina,medio,88.0,cerrado,sistema,particular
+INC-00300,2024-06-18 15:20:15,,intrusión,Fortaleza,Brasil,bajo,,abierto,sistema,empresa
+INC-00301,2024-06-19 22:46:03,2024-06-19 23:40:03,intrusión,Santiago,Chile,crítico,33.0,cerrado,cámara,empresa
+INC-00302,2024-06-21 06:21:12,,intrusión,São Paulo,Brasil,bajo,72.0,en proceso,alarma,empresa
+INC-00303,2024-06-21 07:50:14,2024-06-21 08:27:14,robo,Bogotá,Colombia,crítico,22.0,cerrado,alarma,empresa
+INC-00304,2024-06-21 20:07:33,2024-06-21 20:56:33,robo,Monterrey,México,alto,43.0,cerrado,alarma,empresa
+INC-00305,2024-06-22 05:08:17,2024-06-22 06:45:17,robo,Buenos Aires,Argentina,medio,67.0,cerrado,sensor,empresa
+INC-00306,2024-06-22 10:02:29,,otros,Zaragoza,España,medio,25.0,en proceso,sensor,empresa
+INC-00307,2024-06-22 21:18:51,2024-06-23 00:03:51,intrusión,Ciudad de México,México,bajo,144.0,cerrado,cámara,empresa
+INC-00308,2024-06-22 22:41:50,2024-06-23 00:26:50,sabotaje,Mendoza,Argentina,medio,52.0,cerrado,cámara,empresa
+INC-00309,2024-06-23 14:39:17,,otros,São Paulo,Brasil,medio,35.0,en proceso,sistema,empresa
+INC-00310,2024-06-23 17:54:14,2024-06-23 19:13:14,fallo técnico,Valencia,España,bajo,58.0,cerrado,sistema,particular
+INC-00311,2024-06-23 21:22:55,2024-06-23 22:34:55,fallo técnico,São Paulo,Brasil,alto,39.0,cerrado,sistema,empresa
+INC-00312,2024-06-23 23:39:49,2024-06-24 01:41:49,robo,Ciudad de México,México,bajo,72.0,cerrado,sensor,empresa
+INC-00313,2024-06-25 22:28:28,,intrusión,Sevilla,España,bajo,41.0,en proceso,alarma,empresa
+INC-00314,2024-06-27 12:54:28,2024-06-27 13:23:28,alarma,Ciudad de México,México,alto,25.0,cerrado,alarma,particular
+INC-00315,2024-06-28 22:08:44,2024-06-28 23:38:44,alarma,Bogotá,Colombia,alto,41.0,cerrado,alarma,empresa
+INC-00316,2024-06-28 22:15:31,2024-06-28 23:04:31,fallo técnico,Cali,Colombia,crítico,11.0,cerrado,cámara,empresa
+INC-00317,2024-06-29 01:46:31,2024-06-29 03:01:31,intrusión,São Paulo,Brasil,medio,36.0,cerrado,cámara,empresa
+INC-00318,2024-06-29 12:42:12,2024-06-29 13:42:12,alarma,Buenos Aires,Argentina,alto,32.0,cerrado,alarma,particular
+INC-00319,2024-06-30 05:46:52,2024-06-30 06:46:52,robo,Rio de Janeiro,Brasil,crítico,12.0,cerrado,alarma,empresa
+INC-00320,2024-07-02 03:33:09,2024-07-02 04:35:09,fallo técnico,Ciudad de México,México,medio,56.0,cerrado,sistema,empresa
+INC-00321,2024-07-04 04:12:00,,sabotaje,Madrid,España,bajo,,abierto,alarma,empresa
+INC-00322,2024-07-06 08:10:45,2024-07-06 09:32:45,robo,Barcelona,España,medio,42.0,cerrado,cámara,empresa
+INC-00323,2024-07-07 04:46:01,2024-07-07 06:21:01,robo,Tucumán,Argentina,medio,67.0,cerrado,cámara,particular
+INC-00324,2024-07-07 06:26:44,2024-07-07 07:56:44,otros,Madrid,España,alto,53.0,cerrado,sensor,empresa
+INC-00325,2024-07-07 16:10:26,2024-07-07 17:41:26,robo,Sevilla,España,medio,84.0,cerrado,cámara,empresa
+INC-00326,2024-07-07 20:08:00,2024-07-07 20:20:00,otros,Ciudad de México,México,crítico,7.0,cerrado,sistema,empresa
+INC-00327,2024-07-08 19:39:17,,alarma,Buenos Aires,Argentina,bajo,64.0,en proceso,alarma,particular
+INC-00328,2024-07-08 23:30:17,2024-07-09 00:45:17,otros,Cali,Colombia,crítico,17.0,cerrado,sistema,empresa
+INC-00329,2024-07-09 02:43:55,2024-07-09 04:48:55,alarma,Madrid,España,bajo,123.0,cerrado,alarma,empresa
+INC-00330,2024-07-09 10:50:18,,fallo técnico,Córdoba,Argentina,bajo,46.0,en proceso,sistema,empresa
+INC-00331,2024-07-09 14:35:59,,alarma,Valparaíso,Chile,bajo,,abierto,sensor,empresa
+INC-00332,2024-07-10 14:56:09,2024-07-10 16:53:09,otros,São Paulo,Brasil,medio,61.0,cerrado,sensor,empresa
+INC-00333,2024-07-11 12:01:14,,intrusión,Córdoba,Argentina,medio,,abierto,cámara,empresa
+INC-00334,2024-07-12 23:50:00,2024-07-13 01:04:00,robo,Bogotá,Colombia,crítico,20.0,cerrado,alarma,particular
+INC-00335,2024-07-13 06:01:46,,fallo técnico,Barcelona,España,medio,,abierto,sistema,particular
+INC-00336,2024-07-13 06:15:47,2024-07-13 07:52:47,sabotaje,Cartagena,Colombia,medio,53.0,cerrado,sistema,empresa
+INC-00337,2024-07-13 12:56:19,2024-07-13 14:04:19,alarma,Ciudad de México,México,medio,64.0,cerrado,sensor,empresa
+INC-00338,2024-07-13 15:49:35,2024-07-13 17:09:35,robo,Madrid,España,crítico,30.0,cerrado,alarma,empresa
+INC-00339,2024-07-13 17:46:59,2024-07-13 19:12:59,alarma,Monterrey,México,bajo,78.0,cerrado,sensor,empresa
+INC-00340,2024-07-14 01:55:41,,alarma,Mendoza,Argentina,crítico,,abierto,alarma,empresa
+INC-00341,2024-07-14 12:43:38,2024-07-14 13:07:38,alarma,Tijuana,México,crítico,21.0,cerrado,alarma,particular
+INC-00342,2024-07-15 16:06:39,2024-07-15 17:50:39,alarma,São Paulo,Brasil,bajo,46.0,cerrado,sensor,empresa
+INC-00343,2024-07-16 20:57:25,2024-07-16 22:36:25,robo,Madrid,España,bajo,48.0,cerrado,cámara,particular
+INC-00344,2024-07-17 00:29:40,,fallo técnico,Brasília,Brasil,bajo,98.0,en proceso,sistema,particular
+INC-00345,2024-07-20 02:42:58,2024-07-20 03:54:58,sabotaje,Rosario,Argentina,medio,53.0,cerrado,cámara,empresa
+INC-00346,2024-07-20 20:04:46,2024-07-20 21:51:46,sabotaje,Madrid,España,bajo,68.0,cerrado,alarma,empresa
+INC-00347,2024-07-21 17:14:41,2024-07-21 18:30:41,intrusión,Ciudad de México,México,alto,36.0,cerrado,alarma,empresa
+INC-00348,2024-07-21 21:51:34,2024-07-22 00:50:34,alarma,Buenos Aires,Argentina,bajo,152.0,cerrado,sensor,empresa
+INC-00349,2024-07-22 11:11:25,,alarma,Zaragoza,España,bajo,52.0,en proceso,alarma,empresa
+INC-00350,2024-07-24 22:18:43,2024-07-25 00:22:43,intrusión,Buenos Aires,Argentina,medio,81.0,cerrado,alarma,empresa
+INC-00351,2024-07-25 06:56:02,2024-07-25 07:12:02,alarma,Concepción,Chile,crítico,13.0,cerrado,alarma,empresa
+INC-00352,2024-07-26 18:06:09,2024-07-26 19:18:09,alarma,Ciudad de México,México,alto,37.0,cerrado,sistema,empresa
+INC-00353,2024-07-27 19:58:30,2024-07-27 20:08:30,alarma,São Paulo,Brasil,alto,7.0,cerrado,sensor,empresa
+INC-00354,2024-07-28 10:15:16,2024-07-28 11:09:16,otros,Monterrey,México,alto,36.0,cerrado,sistema,particular
+INC-00355,2024-07-28 14:55:39,,intrusión,Santiago,Chile,alto,34.0,en proceso,cámara,empresa
+INC-00356,2024-07-28 20:01:18,,fallo técnico,Medellín,Colombia,medio,41.0,en proceso,sistema,particular
+INC-00357,2024-07-30 07:53:39,2024-07-30 10:52:39,alarma,Sevilla,España,bajo,140.0,cerrado,sistema,empresa
+INC-00358,2024-07-30 08:33:28,2024-07-30 10:30:28,intrusión,Fortaleza,Brasil,bajo,69.0,cerrado,alarma,particular
+INC-00359,2024-08-02 02:27:44,,robo,Guadalajara,México,medio,21.0,en proceso,alarma,empresa
+INC-00360,2024-08-03 03:06:04,2024-08-03 05:10:04,sabotaje,Brasília,Brasil,bajo,69.0,cerrado,alarma,particular
+INC-00361,2024-08-03 11:03:41,2024-08-03 14:20:41,sabotaje,Valencia,España,bajo,159.0,cerrado,cámara,empresa
+INC-00362,2024-08-03 18:38:41,2024-08-03 20:17:41,alarma,Ciudad de México,México,bajo,49.0,cerrado,cámara,empresa
+INC-00363,2024-08-03 21:06:22,2024-08-03 22:29:22,fallo técnico,Buenos Aires,Argentina,medio,41.0,cerrado,sistema,particular
+INC-00364,2024-08-04 10:48:56,,alarma,Ciudad de México,México,bajo,79.0,en proceso,alarma,particular
+INC-00365,2024-08-05 15:14:54,,robo,São Paulo,Brasil,crítico,6.0,en proceso,cámara,particular
+INC-00366,2024-08-07 22:51:50,2024-08-08 02:18:50,alarma,Buenos Aires,Argentina,bajo,178.0,cerrado,cámara,empresa
+INC-00367,2024-08-08 23:31:00,,fallo técnico,Medellín,Colombia,bajo,,abierto,sistema,empresa
+INC-00368,2024-08-10 03:08:48,2024-08-10 05:15:48,fallo técnico,São Paulo,Brasil,bajo,77.0,cerrado,cámara,particular
+INC-00369,2024-08-10 09:50:51,2024-08-10 11:58:51,intrusión,São Paulo,Brasil,bajo,101.0,cerrado,sistema,particular
+INC-00370,2024-08-11 05:13:17,,fallo técnico,Monterrey,México,medio,,abierto,sistema,empresa
+INC-00371,2024-08-11 08:49:23,,alarma,Bogotá,Colombia,alto,17.0,en proceso,alarma,particular
+INC-00372,2024-08-12 08:03:51,2024-08-12 10:26:51,intrusión,Santiago,Chile,bajo,104.0,cerrado,alarma,empresa
+INC-00373,2024-08-12 22:33:29,2024-08-13 00:43:29,fallo técnico,Rio de Janeiro,Brasil,bajo,124.0,cerrado,sensor,empresa
+INC-00374,2024-08-13 06:27:21,,robo,Madrid,España,bajo,62.0,en proceso,sensor,empresa
+INC-00375,2024-08-13 18:31:03,2024-08-13 20:24:03,intrusión,Rio de Janeiro,Brasil,bajo,53.0,cerrado,alarma,particular
+INC-00376,2024-08-14 04:30:09,,fallo técnico,Monterrey,México,medio,,abierto,alarma,particular
+INC-00377,2024-08-14 21:46:25,2024-08-15 00:16:25,fallo técnico,São Paulo,Brasil,medio,107.0,cerrado,sistema,particular
+INC-00378,2024-08-15 12:23:43,2024-08-15 14:02:43,robo,Ciudad de México,México,medio,49.0,cerrado,sistema,empresa
+INC-00379,2024-08-15 14:22:19,,intrusión,Barcelona,España,bajo,44.0,en proceso,cámara,empresa
+INC-00380,2024-08-16 03:43:47,2024-08-16 04:50:47,robo,Ciudad de México,México,alto,34.0,cerrado,cámara,empresa
+INC-00381,2024-08-17 09:45:45,2024-08-17 10:15:45,robo,Valencia,España,crítico,9.0,cerrado,alarma,empresa
+INC-00382,2024-08-17 19:16:58,2024-08-17 20:35:58,robo,Rio de Janeiro,Brasil,medio,42.0,cerrado,alarma,particular
+INC-00383,2024-08-17 22:09:59,2024-08-17 23:47:59,alarma,Antofagasta,Chile,medio,86.0,cerrado,alarma,particular
+INC-00384,2024-08-18 22:09:51,2024-08-18 22:24:51,alarma,Bilbao,España,alto,9.0,cerrado,alarma,particular
+INC-00385,2024-08-21 13:26:58,,alarma,São Paulo,Brasil,alto,12.0,en proceso,alarma,empresa
+INC-00386,2024-08-21 21:12:25,2024-08-22 00:49:25,robo,Madrid,España,bajo,179.0,cerrado,cámara,empresa
+INC-00387,2024-08-22 01:55:21,,robo,Barcelona,España,medio,32.0,en proceso,sensor,empresa
+INC-00388,2024-08-23 20:17:13,2024-08-23 21:45:13,otros,Rio de Janeiro,Brasil,medio,51.0,cerrado,alarma,particular
+INC-00389,2024-08-24 07:43:01,2024-08-24 09:43:01,intrusión,Barcelona,España,medio,70.0,cerrado,alarma,empresa
+INC-00390,2024-08-25 18:58:43,2024-08-25 20:14:43,robo,Buenos Aires,Argentina,alto,23.0,cerrado,cámara,particular
+INC-00391,2024-08-25 21:02:23,2024-08-26 00:25:23,robo,Rio de Janeiro,Brasil,bajo,191.0,cerrado,sensor,empresa
+INC-00392,2024-08-25 23:54:59,2024-08-26 01:37:59,fallo técnico,Madrid,España,alto,46.0,cerrado,sistema,particular
+INC-00393,2024-08-26 13:21:45,2024-08-26 14:30:45,intrusión,Buenos Aires,Argentina,alto,33.0,cerrado,cámara,particular
+INC-00394,2024-08-28 10:57:34,2024-08-28 11:31:34,robo,Rosario,Argentina,crítico,26.0,cerrado,sensor,particular
+INC-00395,2024-08-29 03:29:19,2024-08-29 05:47:19,alarma,Fortaleza,Brasil,bajo,98.0,cerrado,sensor,empresa
+INC-00396,2024-08-29 08:12:11,,otros,São Paulo,Brasil,bajo,90.0,en proceso,cámara,empresa
+INC-00397,2024-08-29 21:04:47,2024-08-29 21:58:47,alarma,Córdoba,Argentina,alto,32.0,cerrado,sensor,empresa
+INC-00398,2024-08-30 15:30:13,,robo,Monterrey,México,medio,,abierto,alarma,empresa
+INC-00399,2024-08-30 19:21:23,,intrusión,Monterrey,México,medio,25.0,en proceso,alarma,empresa
+INC-00400,2024-08-30 23:37:44,2024-08-31 00:45:44,robo,Valparaíso,Chile,crítico,22.0,cerrado,cámara,particular
+INC-00401,2024-08-31 00:11:16,2024-08-31 02:14:16,sabotaje,Rio de Janeiro,Brasil,bajo,84.0,cerrado,sistema,empresa
+INC-00402,2024-08-31 01:15:26,2024-08-31 01:52:26,robo,Barcelona,España,crítico,9.0,cerrado,cámara,empresa
+INC-00403,2024-08-31 23:40:10,2024-09-01 00:27:10,fallo técnico,Rosario,Argentina,alto,36.0,cerrado,cámara,particular
+INC-00404,2024-09-01 02:45:18,2024-09-01 04:47:18,fallo técnico,Buenos Aires,Argentina,bajo,107.0,cerrado,cámara,empresa
+INC-00405,2024-09-01 02:59:27,2024-09-01 03:30:27,alarma,Brasília,Brasil,alto,23.0,cerrado,sensor,empresa
+INC-00406,2024-09-01 05:05:17,2024-09-01 08:43:17,alarma,Madrid,España,bajo,167.0,cerrado,cámara,empresa
+INC-00407,2024-09-01 05:23:44,2024-09-01 05:39:44,robo,São Paulo,Brasil,crítico,14.0,cerrado,cámara,particular
+INC-00408,2024-09-01 20:30:47,2024-09-01 20:56:47,fallo técnico,Madrid,España,crítico,23.0,cerrado,sistema,particular
+INC-00409,2024-09-01 21:07:36,2024-09-01 23:53:36,sabotaje,Bogotá,Colombia,bajo,158.0,cerrado,sensor,empresa
+INC-00410,2024-09-03 16:16:52,,fallo técnico,Córdoba,Argentina,bajo,,abierto,sistema,empresa
+INC-00411,2024-09-04 04:45:27,2024-09-04 06:41:27,intrusión,Sevilla,España,medio,97.0,cerrado,alarma,particular
+INC-00412,2024-09-05 16:14:40,2024-09-05 17:47:40,otros,Ciudad de México,México,alto,56.0,cerrado,sensor,empresa
+INC-00413,2024-09-07 05:28:53,,sabotaje,Santiago,Chile,medio,45.0,en proceso,sistema,particular
+INC-00414,2024-09-07 12:17:59,2024-09-07 14:13:59,intrusión,São Paulo,Brasil,medio,75.0,cerrado,alarma,empresa
+INC-00415,2024-09-08 12:47:02,2024-09-08 14:14:02,otros,Barcelona,España,alto,39.0,cerrado,alarma,empresa
+INC-00416,2024-09-08 13:01:14,2024-09-08 14:07:14,fallo técnico,Valencia,España,medio,44.0,cerrado,sistema,empresa
+INC-00417,2024-09-08 20:43:21,2024-09-08 21:25:21,robo,Guadalajara,México,alto,23.0,cerrado,alarma,particular
+INC-00418,2024-09-09 08:49:27,2024-09-09 13:18:27,alarma,Barcelona,España,bajo,232.0,cerrado,alarma,empresa
+INC-00419,2024-09-09 13:37:14,,alarma,Madrid,España,medio,,abierto,alarma,particular
+INC-00420,2024-09-10 00:39:09,2024-09-10 03:56:09,robo,Antofagasta,Chile,bajo,141.0,cerrado,cámara,particular
+INC-00421,2024-09-10 01:18:24,2024-09-10 02:53:24,otros,Bilbao,España,medio,61.0,cerrado,cámara,particular
+INC-00422,2024-09-10 09:37:05,2024-09-10 10:55:05,robo,Cali,Colombia,alto,29.0,cerrado,sensor,empresa
+INC-00423,2024-09-10 10:01:37,,robo,Madrid,España,medio,11.0,en proceso,cámara,empresa
+INC-00424,2024-09-11 10:18:28,,intrusión,Buenos Aires,Argentina,bajo,,abierto,cámara,empresa
+INC-00425,2024-09-11 11:19:08,,fallo técnico,Madrid,España,alto,5.0,en proceso,alarma,particular
+INC-00426,2024-09-11 12:15:28,2024-09-11 13:54:28,fallo técnico,Ciudad de México,México,medio,61.0,cerrado,sensor,empresa
+INC-00427,2024-09-11 22:06:24,2024-09-11 23:08:24,alarma,Buenos Aires,Argentina,medio,41.0,cerrado,alarma,empresa
+INC-00428,2024-09-12 01:58:23,2024-09-12 02:23:23,intrusión,Rio de Janeiro,Brasil,alto,7.0,cerrado,cámara,empresa
+INC-00429,2024-09-12 03:51:50,,intrusión,Cartagena,Colombia,medio,5.0,en proceso,cámara,particular
+INC-00430,2024-09-12 23:41:24,2024-09-13 00:16:24,intrusión,Rosario,Argentina,medio,35.0,cerrado,cámara,particular
+INC-00431,2024-09-14 00:39:05,2024-09-14 02:12:05,robo,Zaragoza,España,bajo,60.0,cerrado,cámara,empresa
+INC-00432,2024-09-15 04:13:44,2024-09-15 07:06:44,fallo técnico,Córdoba,Argentina,bajo,136.0,cerrado,sensor,empresa
+INC-00433,2024-09-15 05:42:51,2024-09-15 07:59:51,robo,Sevilla,España,bajo,95.0,cerrado,sistema,empresa
+INC-00434,2024-09-18 09:12:50,2024-09-18 10:40:50,intrusión,Buenos Aires,Argentina,medio,45.0,cerrado,alarma,empresa
+INC-00435,2024-09-18 20:05:59,2024-09-18 20:34:59,fallo técnico,Madrid,España,crítico,20.0,cerrado,cámara,empresa
+INC-00436,2024-09-19 17:03:03,2024-09-19 18:18:03,fallo técnico,Ciudad de México,México,medio,72.0,cerrado,sensor,empresa
+INC-00437,2024-09-20 03:34:10,,sabotaje,Madrid,España,bajo,72.0,en proceso,sistema,empresa
+INC-00438,2024-09-20 03:38:11,2024-09-20 05:30:11,robo,Buenos Aires,Argentina,medio,60.0,cerrado,alarma,empresa
+INC-00439,2024-09-21 19:44:56,,intrusión,Madrid,España,bajo,78.0,en proceso,cámara,empresa
+INC-00440,2024-09-21 19:46:09,2024-09-21 22:02:09,alarma,Madrid,España,medio,82.0,cerrado,alarma,empresa
+INC-00441,2024-09-22 04:47:49,2024-09-22 06:07:49,robo,Buenos Aires,Argentina,bajo,77.0,cerrado,cámara,empresa
+INC-00442,2024-09-22 11:07:03,,alarma,Ciudad de México,México,alto,14.0,en proceso,alarma,empresa
+INC-00443,2024-09-22 19:22:59,,fallo técnico,Fortaleza,Brasil,medio,,abierto,sensor,particular
+INC-00444,2024-09-24 16:06:35,2024-09-24 16:37:35,robo,Buenos Aires,Argentina,crítico,19.0,cerrado,sistema,empresa
+INC-00445,2024-09-25 14:58:15,2024-09-25 15:33:15,fallo técnico,São Paulo,Brasil,alto,23.0,cerrado,sistema,particular
+INC-00446,2024-09-28 02:31:59,2024-09-28 03:34:59,otros,Valencia,España,alto,23.0,cerrado,sistema,empresa
+INC-00447,2024-09-28 05:13:11,,alarma,Barcelona,España,bajo,68.0,en proceso,alarma,particular
+INC-00448,2024-09-28 18:26:39,2024-09-28 20:19:39,sabotaje,Madrid,España,bajo,63.0,cerrado,sensor,particular
+INC-00449,2024-09-28 19:27:22,2024-09-28 20:53:22,alarma,São Paulo,Brasil,medio,82.0,cerrado,alarma,particular
+INC-00450,2024-09-28 22:04:22,,intrusión,Ciudad de México,México,bajo,54.0,en proceso,alarma,empresa
+INC-00451,2024-09-28 23:35:34,2024-09-29 00:30:34,alarma,Antofagasta,Chile,crítico,13.0,cerrado,alarma,empresa
+INC-00452,2024-09-29 15:24:08,2024-09-29 17:24:08,alarma,Rosario,Argentina,bajo,90.0,cerrado,alarma,empresa
+INC-00453,2024-10-02 14:35:26,,alarma,Barcelona,España,medio,38.0,en proceso,sensor,empresa
+INC-00454,2024-10-03 02:11:27,2024-10-03 03:23:27,intrusión,Fortaleza,Brasil,alto,43.0,cerrado,alarma,particular
+INC-00455,2024-10-04 22:51:18,2024-10-04 23:51:18,alarma,Buenos Aires,Argentina,alto,22.0,cerrado,sensor,empresa
+INC-00456,2024-10-05 15:12:20,2024-10-05 16:59:20,otros,Madrid,España,medio,63.0,cerrado,sensor,particular
+INC-00457,2024-10-05 15:56:15,,alarma,Madrid,España,medio,29.0,en proceso,sistema,particular
+INC-00458,2024-10-06 00:24:21,2024-10-06 01:41:21,alarma,Madrid,España,alto,40.0,cerrado,cámara,empresa
+INC-00459,2024-10-06 08:07:00,2024-10-06 09:31:00,alarma,São Paulo,Brasil,alto,48.0,cerrado,alarma,empresa
+INC-00460,2024-10-06 08:50:51,2024-10-06 10:05:51,alarma,Madrid,España,medio,54.0,cerrado,alarma,empresa
+INC-00461,2024-10-06 15:30:15,2024-10-06 17:20:15,alarma,Monterrey,México,medio,71.0,cerrado,alarma,particular
+INC-00462,2024-10-06 21:37:13,2024-10-07 01:04:13,robo,Buenos Aires,Argentina,bajo,188.0,cerrado,sistema,empresa
+INC-00463,2024-10-07 01:35:18,2024-10-07 03:42:18,intrusión,Barcelona,España,bajo,101.0,cerrado,sistema,particular
+INC-00464,2024-10-07 06:06:08,2024-10-07 06:54:08,fallo técnico,Rosario,Argentina,alto,27.0,cerrado,alarma,empresa
+INC-00465,2024-10-07 11:16:05,2024-10-07 11:56:05,robo,Buenos Aires,Argentina,alto,30.0,cerrado,sensor,empresa
+INC-00466,2024-10-08 09:10:49,2024-10-08 10:52:49,intrusión,Barcelona,España,bajo,96.0,cerrado,alarma,empresa
+INC-00467,2024-10-08 18:56:47,2024-10-08 22:09:47,alarma,Puebla,México,bajo,164.0,cerrado,sistema,particular
+INC-00468,2024-10-10 22:57:41,2024-10-11 00:45:41,alarma,Guadalajara,México,alto,52.0,cerrado,alarma,particular
+INC-00469,2024-10-11 02:34:54,2024-10-11 04:06:54,robo,Guadalajara,México,alto,42.0,cerrado,cámara,particular
+INC-00470,2024-10-11 18:27:40,2024-10-11 20:20:40,alarma,São Paulo,Brasil,medio,55.0,cerrado,sensor,empresa
+INC-00471,2024-10-12 02:28:51,2024-10-12 04:01:51,robo,Cartagena,Colombia,medio,91.0,cerrado,cámara,particular
+INC-00472,2024-10-12 06:34:08,2024-10-12 08:00:08,alarma,Bogotá,Colombia,medio,55.0,cerrado,alarma,empresa
+INC-00473,2024-10-12 07:19:49,,otros,Barcelona,España,bajo,39.0,en proceso,alarma,empresa
+INC-00474,2024-10-12 13:54:35,,alarma,Tijuana,México,bajo,28.0,en proceso,sensor,empresa
+INC-00475,2024-10-13 02:33:56,,fallo técnico,São Paulo,Brasil,bajo,,abierto,sistema,particular
+INC-00476,2024-10-13 10:57:25,,sabotaje,Santiago,Chile,bajo,,abierto,alarma,empresa
+INC-00477,2024-10-13 11:13:28,2024-10-13 12:06:28,robo,São Paulo,Brasil,alto,39.0,cerrado,sensor,empresa
+INC-00478,2024-10-17 05:47:32,2024-10-17 08:18:32,alarma,Valencia,España,bajo,107.0,cerrado,alarma,empresa
+INC-00479,2024-10-18 05:17:28,2024-10-18 05:42:28,robo,Rosario,Argentina,alto,11.0,cerrado,cámara,particular
+INC-00480,2024-10-19 03:27:08,,sabotaje,Madrid,España,alto,14.0,en proceso,cámara,empresa
+INC-00481,2024-10-19 08:49:05,2024-10-19 10:45:05,alarma,Buenos Aires,Argentina,bajo,103.0,cerrado,alarma,particular
+INC-00482,2024-10-19 13:18:39,,alarma,Buenos Aires,Argentina,alto,13.0,en proceso,sensor,empresa
+INC-00483,2024-10-19 15:12:07,2024-10-19 17:30:07,fallo técnico,Valencia,España,bajo,91.0,cerrado,sistema,empresa
+INC-00484,2024-10-21 22:51:07,2024-10-21 23:57:07,robo,Brasília,Brasil,alto,17.0,cerrado,cámara,empresa
+INC-00485,2024-10-24 16:32:05,,intrusión,Córdoba,Argentina,bajo,,abierto,sistema,empresa
+INC-00486,2024-10-25 10:59:51,2024-10-25 13:26:51,fallo técnico,Santiago,Chile,medio,87.0,cerrado,sistema,empresa
+INC-00487,2024-10-26 11:51:43,2024-10-26 15:31:43,alarma,Salvador,Brasil,bajo,168.0,cerrado,alarma,particular
+INC-00488,2024-10-29 17:02:22,2024-10-29 17:43:22,robo,Ciudad de México,México,crítico,20.0,cerrado,cámara,empresa
+INC-00489,2024-10-29 17:31:58,,intrusión,Bilbao,España,bajo,,abierto,sistema,particular
+INC-00490,2024-10-30 01:06:52,2024-10-30 02:42:52,fallo técnico,Rio de Janeiro,Brasil,alto,45.0,cerrado,sistema,empresa
+INC-00491,2024-10-30 05:19:00,2024-10-30 08:38:00,intrusión,Valencia,España,bajo,152.0,cerrado,alarma,empresa
+INC-00492,2024-11-01 01:55:42,2024-11-01 03:30:42,robo,Ciudad de México,México,medio,71.0,cerrado,cámara,empresa
+INC-00493,2024-11-01 16:48:15,2024-11-01 18:29:15,robo,Madrid,España,bajo,88.0,cerrado,cámara,empresa
+INC-00494,2024-11-02 03:40:44,2024-11-02 04:16:44,fallo técnico,Bogotá,Colombia,crítico,11.0,cerrado,sistema,empresa
+INC-00495,2024-11-02 16:53:32,2024-11-02 17:49:32,robo,Barcelona,España,medio,45.0,cerrado,cámara,empresa
+INC-00496,2024-11-02 21:19:58,2024-11-02 22:58:58,alarma,Salvador,Brasil,alto,47.0,cerrado,alarma,particular
+INC-00497,2024-11-02 21:20:35,2024-11-02 23:56:35,alarma,Madrid,España,bajo,156.0,cerrado,alarma,empresa
+INC-00498,2024-11-02 22:36:43,2024-11-02 23:59:43,fallo técnico,Buenos Aires,Argentina,bajo,60.0,cerrado,sistema,empresa
+INC-00499,2024-11-03 17:30:15,,robo,Rosario,Argentina,alto,5.0,en proceso,sensor,particular
+INC-00500,2024-11-03 18:03:25,2024-11-03 18:36:25,robo,Salvador,Brasil,crítico,11.0,cerrado,cámara,empresa
+INC-00501,2024-11-03 21:26:20,,alarma,Córdoba,Argentina,medio,20.0,en proceso,sensor,empresa
+INC-00502,2024-11-03 22:07:01,2024-11-03 23:24:01,alarma,Antofagasta,Chile,medio,70.0,cerrado,alarma,empresa
+INC-00503,2024-11-04 04:04:10,,alarma,Brasília,Brasil,medio,36.0,en proceso,alarma,empresa
+INC-00504,2024-11-05 07:13:54,2024-11-05 09:00:54,intrusión,Tijuana,México,medio,79.0,cerrado,alarma,empresa
+INC-00505,2024-11-05 09:11:07,2024-11-05 11:19:07,robo,Barcelona,España,medio,116.0,cerrado,cámara,empresa
+INC-00506,2024-11-05 16:17:51,2024-11-05 18:21:51,alarma,Madrid,España,bajo,84.0,cerrado,alarma,empresa
+INC-00507,2024-11-07 06:33:06,2024-11-07 08:31:06,fallo técnico,Ciudad de México,México,medio,81.0,cerrado,cámara,empresa
+INC-00508,2024-11-07 07:07:35,2024-11-07 09:14:35,intrusión,Brasília,Brasil,medio,69.0,cerrado,cámara,empresa
+INC-00509,2024-11-08 11:39:52,,intrusión,São Paulo,Brasil,crítico,,abierto,cámara,empresa
+INC-00510,2024-11-08 14:54:36,2024-11-08 16:29:36,alarma,São Paulo,Brasil,alto,47.0,cerrado,alarma,particular
+INC-00511,2024-11-08 23:57:46,2024-11-09 00:27:46,alarma,Barcelona,España,crítico,7.0,cerrado,sensor,empresa
+INC-00512,2024-11-09 08:14:30,2024-11-09 09:21:30,fallo técnico,Medellín,Colombia,medio,65.0,cerrado,sensor,particular
+INC-00513,2024-11-09 11:30:35,2024-11-09 12:39:35,alarma,Córdoba,Argentina,medio,68.0,cerrado,sensor,particular
+INC-00514,2024-11-09 22:27:10,2024-11-09 23:54:10,otros,Barcelona,España,medio,75.0,cerrado,cámara,empresa
+INC-00515,2024-11-10 07:56:36,2024-11-10 08:54:36,robo,Buenos Aires,Argentina,alto,46.0,cerrado,sensor,empresa
+INC-00516,2024-11-10 10:23:16,,fallo técnico,Rosario,Argentina,medio,,abierto,sistema,particular
+INC-00517,2024-11-10 16:15:26,2024-11-10 19:11:26,alarma,Madrid,España,bajo,158.0,cerrado,alarma,empresa
+INC-00518,2024-11-11 12:38:03,2024-11-11 13:27:03,robo,Córdoba,Argentina,alto,38.0,cerrado,cámara,particular
+INC-00519,2024-11-11 16:56:31,2024-11-11 20:45:31,robo,Antofagasta,Chile,bajo,215.0,cerrado,sensor,empresa
+INC-00520,2024-11-16 12:16:39,2024-11-16 13:53:39,otros,Rio de Janeiro,Brasil,alto,41.0,cerrado,sensor,particular
+INC-00521,2024-11-16 18:47:24,2024-11-16 20:58:24,robo,Ciudad de México,México,bajo,115.0,cerrado,alarma,empresa
+INC-00522,2024-11-16 19:25:37,,sabotaje,Buenos Aires,Argentina,medio,,abierto,sistema,particular
+INC-00523,2024-11-17 07:07:01,2024-11-17 08:27:01,fallo técnico,Rosario,Argentina,medio,34.0,cerrado,sistema,particular
+INC-00524,2024-11-17 16:07:24,2024-11-17 19:17:24,otros,Rio de Janeiro,Brasil,bajo,179.0,cerrado,alarma,empresa
+INC-00525,2024-11-17 17:40:13,,robo,Brasília,Brasil,medio,18.0,en proceso,alarma,empresa
+INC-00526,2024-11-18 06:37:09,,robo,Barcelona,España,bajo,58.0,en proceso,cámara,empresa
+INC-00527,2024-11-18 15:25:56,,alarma,Ciudad de México,México,medio,,abierto,sensor,empresa
+INC-00528,2024-11-18 22:52:17,,fallo técnico,Bogotá,Colombia,bajo,,abierto,sensor,empresa
+INC-00529,2024-11-19 17:48:44,2024-11-19 18:14:44,fallo técnico,Zaragoza,España,alto,15.0,cerrado,sensor,empresa
+INC-00530,2024-11-19 21:07:34,,alarma,Medellín,Colombia,crítico,7.0,en proceso,alarma,empresa
+INC-00531,2024-11-20 18:26:23,2024-11-20 19:44:23,robo,Valencia,España,medio,67.0,cerrado,cámara,empresa
+INC-00532,2024-11-21 17:46:07,,intrusión,Buenos Aires,Argentina,bajo,,abierto,cámara,particular
+INC-00533,2024-11-22 03:17:28,,fallo técnico,Rio de Janeiro,Brasil,crítico,15.0,en proceso,cámara,empresa
+INC-00534,2024-11-23 02:36:23,2024-11-23 04:32:23,intrusión,Barcelona,España,medio,58.0,cerrado,cámara,particular
+INC-00535,2024-11-23 22:04:35,2024-11-23 23:18:35,alarma,Ciudad de México,México,medio,68.0,cerrado,alarma,particular
+INC-00536,2024-11-24 04:42:33,2024-11-24 05:40:33,robo,Córdoba,Argentina,medio,57.0,cerrado,sistema,empresa
+INC-00537,2024-11-24 08:32:43,2024-11-24 12:09:43,fallo técnico,Buenos Aires,Argentina,bajo,164.0,cerrado,sistema,particular
+INC-00538,2024-11-24 10:42:18,2024-11-24 12:06:18,alarma,Buenos Aires,Argentina,medio,41.0,cerrado,sensor,empresa
+INC-00539,2024-11-24 13:38:41,,fallo técnico,São Paulo,Brasil,alto,,abierto,alarma,particular
+INC-00540,2024-11-24 20:01:49,2024-11-24 20:49:49,fallo técnico,Brasília,Brasil,alto,40.0,cerrado,sistema,empresa
+INC-00541,2024-11-25 16:42:04,,alarma,Córdoba,Argentina,medio,41.0,en proceso,sensor,empresa
+INC-00542,2024-11-26 05:46:27,2024-11-26 07:49:27,robo,Fortaleza,Brasil,bajo,73.0,cerrado,sensor,empresa
+INC-00543,2024-11-26 23:02:47,2024-11-27 00:23:47,fallo técnico,Buenos Aires,Argentina,crítico,25.0,cerrado,sensor,particular
+INC-00544,2024-11-27 02:17:49,2024-11-27 03:01:49,fallo técnico,Ciudad de México,México,alto,37.0,cerrado,sistema,empresa
+INC-00545,2024-11-27 02:29:53,2024-11-27 03:40:53,alarma,Madrid,España,medio,50.0,cerrado,alarma,empresa
+INC-00546,2024-11-27 03:03:12,,robo,Barcelona,España,bajo,90.0,en proceso,cámara,particular
+INC-00547,2024-11-27 12:55:32,2024-11-27 13:47:32,robo,Rio de Janeiro,Brasil,alto,33.0,cerrado,sensor,empresa
+INC-00548,2024-11-27 16:40:53,2024-11-27 17:34:53,fallo técnico,Rio de Janeiro,Brasil,crítico,25.0,cerrado,sistema,empresa
+INC-00549,2024-11-28 06:22:51,2024-11-28 06:55:51,sabotaje,Madrid,España,crítico,18.0,cerrado,cámara,empresa
+INC-00550,2024-11-28 08:37:07,2024-11-28 09:48:07,fallo técnico,Sevilla,España,alto,48.0,cerrado,sistema,empresa
+INC-00551,2024-11-29 07:47:26,2024-11-29 09:41:26,otros,Fortaleza,Brasil,medio,63.0,cerrado,sistema,particular
+INC-00552,2024-11-29 19:42:39,,robo,Brasília,Brasil,medio,35.0,en proceso,cámara,empresa
+INC-00553,2024-11-29 22:03:19,2024-11-30 00:07:19,alarma,Brasília,Brasil,bajo,114.0,cerrado,cámara,empresa
+INC-00554,2024-11-30 08:14:04,,alarma,Tijuana,México,alto,26.0,en proceso,sistema,empresa
+INC-00555,2024-11-30 08:50:28,,alarma,Barcelona,España,bajo,74.0,en proceso,alarma,particular
+INC-00556,2024-12-01 03:52:33,2024-12-01 06:49:33,sabotaje,Concepción,Chile,bajo,138.0,cerrado,sistema,particular
+INC-00557,2024-12-02 02:49:17,,alarma,Rio de Janeiro,Brasil,medio,45.0,en proceso,alarma,particular
+INC-00558,2024-12-03 21:24:18,2024-12-03 22:40:18,fallo técnico,Monterrey,México,crítico,20.0,cerrado,sistema,empresa
+INC-00559,2024-12-04 14:41:16,2024-12-04 17:07:16,intrusión,Monterrey,México,bajo,101.0,cerrado,cámara,empresa
+INC-00560,2024-12-05 11:27:56,2024-12-05 12:27:56,intrusión,Buenos Aires,Argentina,alto,56.0,cerrado,cámara,particular
+INC-00561,2024-12-06 11:34:21,2024-12-06 12:21:21,alarma,Rio de Janeiro,Brasil,alto,40.0,cerrado,alarma,empresa
+INC-00562,2024-12-07 12:03:40,,fallo técnico,Mendoza,Argentina,alto,17.0,en proceso,sistema,particular
+INC-00563,2024-12-07 20:13:00,,robo,Medellín,Colombia,medio,64.0,en proceso,cámara,particular
+INC-00564,2024-12-07 21:09:58,2024-12-07 22:49:58,alarma,Madrid,España,medio,50.0,cerrado,alarma,empresa
+INC-00565,2024-12-08 13:26:59,2024-12-08 13:57:59,alarma,Rio de Janeiro,Brasil,crítico,19.0,cerrado,alarma,empresa
+INC-00566,2024-12-09 03:16:41,,fallo técnico,Buenos Aires,Argentina,alto,11.0,en proceso,sistema,empresa
+INC-00567,2024-12-09 07:43:19,2024-12-09 08:41:19,alarma,Buenos Aires,Argentina,alto,34.0,cerrado,alarma,empresa
+INC-00568,2024-12-09 18:48:24,2024-12-09 21:22:24,sabotaje,Buenos Aires,Argentina,bajo,110.0,cerrado,cámara,empresa
+INC-00569,2024-12-09 21:24:54,,sabotaje,Monterrey,México,bajo,,abierto,sensor,particular
+INC-00570,2024-12-14 01:16:55,2024-12-14 02:58:55,robo,São Paulo,Brasil,medio,79.0,cerrado,alarma,empresa
+INC-00571,2024-12-14 06:48:21,,robo,Bogotá,Colombia,bajo,,abierto,sensor,empresa
+INC-00572,2024-12-14 10:03:01,2024-12-14 11:11:01,alarma,Rio de Janeiro,Brasil,alto,48.0,cerrado,sensor,particular
+INC-00573,2024-12-15 20:51:18,2024-12-15 21:49:18,alarma,Medellín,Colombia,crítico,20.0,cerrado,cámara,empresa
+INC-00574,2024-12-16 05:30:20,2024-12-16 07:24:20,alarma,Barcelona,España,bajo,87.0,cerrado,alarma,particular
+INC-00575,2024-12-16 09:01:47,,robo,Buenos Aires,Argentina,bajo,,abierto,cámara,empresa
+INC-00576,2024-12-16 12:25:29,2024-12-16 13:36:29,alarma,Antofagasta,Chile,medio,31.0,cerrado,sensor,particular
+INC-00577,2024-12-17 09:38:10,,robo,Madrid,España,medio,19.0,en proceso,alarma,empresa
+INC-00578,2024-12-17 20:54:16,2024-12-17 21:34:16,robo,Santiago,Chile,alto,38.0,cerrado,sensor,particular
+INC-00579,2024-12-18 14:34:10,,robo,Santiago,Chile,alto,,abierto,cámara,particular
+INC-00580,2024-12-18 20:54:32,,alarma,Buenos Aires,Argentina,medio,32.0,en proceso,alarma,empresa
+INC-00581,2024-12-20 13:14:53,2024-12-20 14:23:53,alarma,Brasília,Brasil,alto,32.0,cerrado,sensor,empresa
+INC-00582,2024-12-21 13:01:10,2024-12-21 13:25:10,alarma,Madrid,España,crítico,12.0,cerrado,alarma,empresa
+INC-00583,2024-12-21 21:23:04,2024-12-22 00:59:04,robo,Mendoza,Argentina,bajo,162.0,cerrado,cámara,particular
+INC-00584,2024-12-22 08:14:38,2024-12-22 10:15:38,alarma,São Paulo,Brasil,bajo,87.0,cerrado,sistema,particular
+INC-00585,2024-12-22 14:17:55,2024-12-22 15:45:55,fallo técnico,Ciudad de México,México,medio,70.0,cerrado,sistema,empresa
+INC-00586,2024-12-22 14:46:44,,intrusión,Buenos Aires,Argentina,bajo,45.0,en proceso,cámara,empresa
+INC-00587,2024-12-22 16:49:46,2024-12-22 17:40:46,fallo técnico,São Paulo,Brasil,alto,31.0,cerrado,sistema,particular
+INC-00588,2024-12-24 02:49:41,,fallo técnico,Valencia,España,medio,,abierto,sistema,empresa
+INC-00589,2024-12-25 04:36:42,,alarma,Madrid,España,bajo,,abierto,sistema,empresa
+INC-00590,2024-12-25 04:54:47,2024-12-25 05:26:47,alarma,Santiago,Chile,crítico,17.0,cerrado,alarma,empresa
+INC-00591,2024-12-26 06:39:16,,sabotaje,Rio de Janeiro,Brasil,bajo,,abierto,sistema,empresa
+INC-00592,2024-12-27 09:31:38,2024-12-27 10:25:38,alarma,Cali,Colombia,medio,51.0,cerrado,sensor,empresa
+INC-00593,2024-12-28 04:17:53,2024-12-28 05:10:53,alarma,Valencia,España,crítico,13.0,cerrado,alarma,particular
+INC-00594,2024-12-28 12:05:23,2024-12-28 13:00:23,alarma,Valparaíso,Chile,alto,5.0,cerrado,alarma,empresa
+INC-00595,2024-12-28 14:55:46,2024-12-28 15:27:46,intrusión,Rosario,Argentina,crítico,15.0,cerrado,alarma,particular
+INC-00596,2024-12-28 18:17:11,2024-12-28 20:38:11,robo,Córdoba,Argentina,medio,86.0,cerrado,cámara,empresa
+INC-00597,2024-12-28 23:02:27,,robo,Guadalajara,México,bajo,26.0,en proceso,alarma,empresa
+INC-00598,2024-12-29 02:49:32,2024-12-29 03:27:32,sabotaje,Brasília,Brasil,bajo,6.0,cerrado,sensor,empresa
+INC-00599,2024-12-29 19:02:36,2024-12-29 21:47:36,robo,Zaragoza,España,bajo,128.0,cerrado,alarma,empresa
+INC-00600,2024-12-30 03:07:58,2024-12-30 04:15:58,fallo técnico,Monterrey,México,crítico,12.0,cerrado,alarma,empresa
+INC-00601,2024-12-30 09:33:40,2024-12-30 11:32:40,robo,Santiago,Chile,medio,88.0,cerrado,cámara,empresa
+INC-00602,2024-12-31 20:15:06,2024-12-31 21:01:06,alarma,Santiago,Chile,alto,33.0,cerrado,sensor,empresa
+INC-00603,2025-01-02 09:55:01,,robo,Guadalajara,México,medio,51.0,en proceso,cámara,empresa
+INC-00604,2025-01-02 15:08:32,2025-01-02 16:03:32,sabotaje,Rio de Janeiro,Brasil,crítico,5.0,cerrado,sistema,empresa
+INC-00605,2025-01-03 18:10:23,,alarma,Valencia,España,bajo,33.0,en proceso,alarma,empresa
+INC-00606,2025-01-04 14:56:02,2025-01-04 16:17:02,alarma,Fortaleza,Brasil,alto,39.0,cerrado,alarma,empresa
+INC-00607,2025-01-04 16:34:32,2025-01-04 17:49:32,robo,Rio de Janeiro,Brasil,medio,36.0,cerrado,cámara,empresa
+INC-00608,2025-01-04 17:59:51,2025-01-04 19:09:51,intrusión,Madrid,España,medio,66.0,cerrado,cámara,empresa
+INC-00609,2025-01-05 03:12:50,2025-01-05 03:39:50,fallo técnico,Mendoza,Argentina,crítico,17.0,cerrado,alarma,particular
+INC-00610,2025-01-05 03:28:32,2025-01-05 04:54:32,alarma,Santiago,Chile,medio,54.0,cerrado,alarma,empresa
+INC-00611,2025-01-05 22:04:02,2025-01-05 23:49:02,otros,Rio de Janeiro,Brasil,bajo,81.0,cerrado,cámara,empresa
+INC-00612,2025-01-06 21:23:34,,alarma,Ciudad de México,México,medio,35.0,en proceso,sensor,empresa
+INC-00613,2025-01-06 22:24:46,2025-01-07 00:08:46,intrusión,Madrid,España,medio,63.0,cerrado,cámara,empresa
+INC-00614,2025-01-11 15:28:56,,fallo técnico,São Paulo,Brasil,medio,35.0,en proceso,alarma,empresa
+INC-00615,2025-01-11 21:31:43,2025-01-11 22:20:43,intrusión,Cartagena,Colombia,alto,26.0,cerrado,alarma,empresa
+INC-00616,2025-01-12 13:40:27,2025-01-12 15:58:27,alarma,Ciudad de México,México,medio,107.0,cerrado,sensor,empresa
+INC-00617,2025-01-12 15:20:37,,sabotaje,Rio de Janeiro,Brasil,bajo,40.0,en proceso,sistema,empresa
+INC-00618,2025-01-12 21:16:37,,robo,Bogotá,Colombia,medio,,abierto,alarma,particular
+INC-00619,2025-01-13 17:45:02,2025-01-13 18:34:02,fallo técnico,Barcelona,España,alto,38.0,cerrado,sistema,empresa
+INC-00620,2025-01-15 07:30:01,2025-01-15 08:14:01,robo,Buenos Aires,Argentina,crítico,24.0,cerrado,alarma,empresa
+INC-00621,2025-01-16 11:22:19,2025-01-16 13:10:19,robo,Ciudad de México,México,bajo,63.0,cerrado,sensor,empresa
+INC-00622,2025-01-17 00:22:50,2025-01-17 02:30:50,otros,Madrid,España,bajo,105.0,cerrado,cámara,empresa
+INC-00623,2025-01-17 20:42:59,2025-01-17 21:47:59,robo,Barcelona,España,alto,32.0,cerrado,sensor,empresa
+INC-00624,2025-01-17 23:54:05,2025-01-18 01:22:05,intrusión,Bilbao,España,alto,44.0,cerrado,alarma,empresa
+INC-00625,2025-01-18 07:33:26,2025-01-18 08:45:26,otros,Madrid,España,alto,42.0,cerrado,sistema,empresa
+INC-00626,2025-01-18 10:59:06,2025-01-18 13:05:06,robo,Buenos Aires,Argentina,medio,81.0,cerrado,alarma,particular
+INC-00627,2025-01-18 15:01:50,2025-01-18 16:23:50,otros,Rosario,Argentina,medio,51.0,cerrado,sensor,particular
+INC-00628,2025-01-18 16:28:31,2025-01-18 17:41:31,intrusión,Córdoba,Argentina,medio,43.0,cerrado,cámara,empresa
+INC-00629,2025-01-18 19:38:18,2025-01-18 21:33:18,alarma,Buenos Aires,Argentina,medio,98.0,cerrado,sensor,empresa
+INC-00630,2025-01-19 05:36:38,,alarma,Ciudad de México,México,medio,,abierto,alarma,particular
+INC-00631,2025-01-19 20:50:56,2025-01-19 22:58:56,robo,Tucumán,Argentina,medio,91.0,cerrado,sistema,particular
+INC-00632,2025-01-19 22:12:04,2025-01-19 23:49:04,sabotaje,Buenos Aires,Argentina,medio,72.0,cerrado,alarma,empresa
+INC-00633,2025-01-21 19:30:37,2025-01-21 21:19:37,sabotaje,Buenos Aires,Argentina,medio,69.0,cerrado,sistema,empresa
+INC-00634,2025-01-22 02:27:40,2025-01-22 06:05:40,robo,Medellín,Colombia,bajo,160.0,cerrado,alarma,empresa
+INC-00635,2025-01-23 13:16:53,2025-01-23 14:46:53,robo,Madrid,España,alto,40.0,cerrado,cámara,empresa
+INC-00636,2025-01-24 05:58:21,2025-01-24 08:18:21,alarma,Medellín,Colombia,bajo,103.0,cerrado,alarma,particular
+INC-00637,2025-01-24 20:53:23,2025-01-24 22:07:23,otros,Madrid,España,alto,33.0,cerrado,sensor,empresa
+INC-00638,2025-01-24 21:15:02,,fallo técnico,Buenos Aires,Argentina,alto,,abierto,sistema,particular
+INC-00639,2025-01-25 08:11:15,2025-01-25 09:31:15,alarma,Rio de Janeiro,Brasil,medio,78.0,cerrado,alarma,empresa
+INC-00640,2025-01-25 14:02:16,2025-01-25 16:12:16,otros,Rio de Janeiro,Brasil,bajo,117.0,cerrado,sensor,empresa
+INC-00641,2025-01-25 14:40:09,,alarma,Barcelona,España,crítico,6.0,en proceso,alarma,empresa
+INC-00642,2025-01-25 21:20:35,,alarma,Madrid,España,bajo,25.0,en proceso,sistema,particular
+INC-00643,2025-01-25 21:50:52,2025-01-26 00:22:52,alarma,Salvador,Brasil,bajo,97.0,cerrado,sistema,empresa
+INC-00644,2025-01-25 23:09:30,2025-01-25 23:59:30,alarma,Córdoba,Argentina,alto,35.0,cerrado,cámara,empresa
+INC-00645,2025-01-25 23:58:48,2025-01-26 00:42:48,alarma,Buenos Aires,Argentina,crítico,19.0,cerrado,alarma,empresa
+INC-00646,2025-01-26 07:31:58,2025-01-26 08:18:58,fallo técnico,Fortaleza,Brasil,medio,34.0,cerrado,sistema,empresa
+INC-00647,2025-01-26 12:24:05,2025-01-26 13:30:05,alarma,Buenos Aires,Argentina,alto,47.0,cerrado,alarma,empresa
+INC-00648,2025-01-26 13:10:52,,robo,Barcelona,España,bajo,,abierto,alarma,empresa
+INC-00649,2025-01-26 16:02:20,,alarma,Medellín,Colombia,alto,27.0,en proceso,alarma,particular
+INC-00650,2025-01-27 03:06:20,2025-01-27 04:47:20,alarma,Barcelona,España,medio,77.0,cerrado,cámara,particular
+INC-00651,2025-01-29 13:24:49,2025-01-29 14:33:49,otros,Madrid,España,crítico,33.0,cerrado,cámara,empresa
+INC-00652,2025-01-29 17:57:39,,alarma,Ciudad de México,México,bajo,45.0,en proceso,alarma,empresa
+INC-00653,2025-02-01 00:20:38,2025-02-01 02:23:38,alarma,Buenos Aires,Argentina,medio,70.0,cerrado,alarma,empresa
+INC-00654,2025-02-01 05:11:15,,robo,Brasília,Brasil,medio,,abierto,alarma,empresa
+INC-00655,2025-02-01 12:59:58,,fallo técnico,Ciudad de México,México,alto,,abierto,sistema,empresa
+INC-00656,2025-02-01 16:39:44,2025-02-01 18:00:44,otros,Madrid,España,medio,58.0,cerrado,alarma,empresa
+INC-00657,2025-02-01 18:38:27,2025-02-01 20:04:27,alarma,Madrid,España,medio,70.0,cerrado,cámara,empresa
+INC-00658,2025-02-02 03:36:43,,otros,Ciudad de México,México,bajo,61.0,en proceso,cámara,empresa
+INC-00659,2025-02-02 03:55:50,2025-02-02 04:33:50,intrusión,Concepción,Chile,medio,30.0,cerrado,cámara,empresa
+INC-00660,2025-02-03 04:26:57,2025-02-03 05:38:57,fallo técnico,Ciudad de México,México,alto,24.0,cerrado,sistema,particular
+INC-00661,2025-02-03 14:18:27,2025-02-03 15:03:27,fallo técnico,Bogotá,Colombia,alto,40.0,cerrado,sistema,empresa
+INC-00662,2025-02-04 18:24:39,2025-02-04 20:18:39,alarma,Buenos Aires,Argentina,medio,96.0,cerrado,alarma,empresa
+INC-00663,2025-02-05 00:06:40,2025-02-05 01:15:40,alarma,Madrid,España,medio,41.0,cerrado,sensor,empresa
+INC-00664,2025-02-05 19:57:37,2025-02-05 20:54:37,alarma,Bilbao,España,alto,24.0,cerrado,sensor,particular
+INC-00665,2025-02-06 06:45:21,2025-02-06 08:46:21,intrusión,Ciudad de México,México,medio,99.0,cerrado,alarma,empresa
+INC-00666,2025-02-07 10:05:30,,robo,São Paulo,Brasil,medio,6.0,en proceso,cámara,empresa
+INC-00667,2025-02-07 10:38:38,,fallo técnico,Ciudad de México,México,bajo,,abierto,sistema,empresa
+INC-00668,2025-02-08 06:33:00,,fallo técnico,Concepción,Chile,medio,,abierto,sensor,empresa
+INC-00669,2025-02-08 12:43:27,2025-02-08 13:37:27,alarma,Madrid,España,medio,52.0,cerrado,alarma,particular
+INC-00670,2025-02-08 17:07:29,2025-02-08 18:47:29,intrusión,Valencia,España,medio,71.0,cerrado,cámara,empresa
+INC-00671,2025-02-09 00:47:13,2025-02-09 02:09:13,otros,Valencia,España,alto,50.0,cerrado,sistema,particular
+INC-00672,2025-02-09 19:56:12,2025-02-09 21:03:12,robo,Fortaleza,Brasil,crítico,28.0,cerrado,sensor,empresa
+INC-00673,2025-02-09 20:19:29,2025-02-09 21:34:29,intrusión,Ciudad de México,México,bajo,54.0,cerrado,cámara,particular
+INC-00674,2025-02-10 01:18:38,2025-02-10 03:10:38,alarma,Zaragoza,España,medio,85.0,cerrado,alarma,particular
+INC-00675,2025-02-11 03:54:52,,fallo técnico,Ciudad de México,México,medio,44.0,en proceso,sistema,empresa
+INC-00676,2025-02-11 13:52:13,2025-02-11 16:19:13,sabotaje,Buenos Aires,Argentina,bajo,120.0,cerrado,sistema,empresa
+INC-00677,2025-02-12 06:10:24,2025-02-12 08:17:24,alarma,Tijuana,México,bajo,101.0,cerrado,sensor,empresa
+INC-00678,2025-02-14 05:36:08,2025-02-14 06:48:08,alarma,São Paulo,Brasil,alto,49.0,cerrado,sensor,empresa
+INC-00679,2025-02-14 06:58:36,,robo,Barcelona,España,alto,,abierto,sensor,empresa
+INC-00680,2025-02-14 09:20:36,2025-02-14 12:40:36,alarma,São Paulo,Brasil,bajo,149.0,cerrado,alarma,empresa
+INC-00681,2025-02-14 23:40:01,,intrusión,São Paulo,Brasil,medio,23.0,en proceso,sensor,particular
+INC-00682,2025-02-15 01:02:08,2025-02-15 02:33:08,robo,Guadalajara,México,medio,74.0,cerrado,alarma,particular
+INC-00683,2025-02-15 15:55:59,2025-02-15 18:12:59,robo,Tijuana,México,bajo,113.0,cerrado,cámara,particular
+INC-00684,2025-02-15 17:34:39,2025-02-15 19:06:39,robo,Ciudad de México,México,bajo,91.0,cerrado,sistema,empresa
+INC-00685,2025-02-16 12:03:36,,robo,Guadalajara,México,crítico,8.0,en proceso,alarma,empresa
+INC-00686,2025-02-16 17:08:12,2025-02-16 18:09:12,fallo técnico,Ciudad de México,México,medio,47.0,cerrado,sistema,empresa
+INC-00687,2025-02-16 20:09:07,2025-02-16 22:26:07,alarma,Córdoba,Argentina,bajo,121.0,cerrado,cámara,particular
+INC-00688,2025-02-17 13:46:31,2025-02-17 15:17:31,sabotaje,Zaragoza,España,medio,50.0,cerrado,alarma,empresa
+INC-00689,2025-02-18 10:10:51,,robo,Buenos Aires,Argentina,bajo,,abierto,cámara,particular
+INC-00690,2025-02-19 03:43:52,2025-02-19 04:28:52,robo,Bilbao,España,alto,41.0,cerrado,alarma,empresa
+INC-00691,2025-02-19 11:40:29,,fallo técnico,Rio de Janeiro,Brasil,bajo,,abierto,sistema,particular
+INC-00692,2025-02-20 03:42:27,2025-02-20 04:42:27,otros,Valencia,España,alto,38.0,cerrado,sistema,particular
+INC-00693,2025-02-21 03:29:07,2025-02-21 04:40:07,robo,Ciudad de México,México,alto,14.0,cerrado,cámara,empresa
+INC-00694,2025-02-21 10:07:29,2025-02-21 10:17:29,alarma,Tijuana,México,crítico,5.0,cerrado,alarma,particular
+INC-00695,2025-02-22 04:40:19,2025-02-22 05:27:19,alarma,Madrid,España,crítico,29.0,cerrado,alarma,empresa
+INC-00696,2025-02-22 11:36:18,2025-02-22 12:46:18,robo,Ciudad de México,México,alto,17.0,cerrado,cámara,empresa
+INC-00697,2025-02-23 12:21:34,2025-02-23 13:30:34,robo,Santiago,Chile,alto,37.0,cerrado,cámara,empresa
+INC-00698,2025-02-23 19:12:12,2025-02-23 21:37:12,sabotaje,Brasília,Brasil,bajo,113.0,cerrado,sistema,empresa
+INC-00699,2025-02-23 21:00:30,2025-02-23 22:09:30,alarma,Madrid,España,alto,35.0,cerrado,sensor,empresa
+INC-00700,2025-02-24 23:30:45,2025-02-25 00:47:45,alarma,Zaragoza,España,alto,36.0,cerrado,sensor,empresa
+INC-00701,2025-02-25 01:27:56,2025-02-25 02:21:56,robo,Fortaleza,Brasil,medio,49.0,cerrado,cámara,particular
+INC-00702,2025-02-25 05:39:44,2025-02-25 07:44:44,alarma,São Paulo,Brasil,medio,75.0,cerrado,sistema,empresa
+INC-00703,2025-02-25 21:38:12,2025-02-25 22:36:12,intrusión,Rosario,Argentina,medio,41.0,cerrado,cámara,empresa
+INC-00704,2025-02-26 09:41:10,2025-02-26 11:12:10,robo,Madrid,España,crítico,32.0,cerrado,cámara,particular
+INC-00705,2025-02-26 20:14:04,2025-02-26 20:41:04,alarma,São Paulo,Brasil,crítico,13.0,cerrado,alarma,empresa
+INC-00706,2025-02-26 21:12:48,2025-02-26 22:31:48,robo,Barcelona,España,medio,73.0,cerrado,sensor,empresa
+INC-00707,2025-02-27 00:08:46,2025-02-27 02:30:46,intrusión,Rosario,Argentina,bajo,135.0,cerrado,alarma,empresa
+INC-00708,2025-02-28 14:45:36,2025-02-28 15:08:36,intrusión,Buenos Aires,Argentina,alto,19.0,cerrado,cámara,empresa
+INC-00709,2025-02-28 16:23:15,2025-02-28 17:17:15,robo,São Paulo,Brasil,crítico,31.0,cerrado,cámara,empresa
+INC-00710,2025-02-28 18:38:05,,fallo técnico,Buenos Aires,Argentina,medio,18.0,en proceso,sistema,empresa
+INC-00711,2025-03-01 04:50:34,,otros,Rio de Janeiro,Brasil,medio,18.0,en proceso,cámara,empresa
+INC-00712,2025-03-01 06:21:38,2025-03-01 08:20:38,intrusión,Madrid,España,medio,107.0,cerrado,alarma,empresa
+INC-00713,2025-03-01 13:24:57,2025-03-01 14:26:57,alarma,Zaragoza,España,alto,19.0,cerrado,alarma,empresa
+INC-00714,2025-03-02 04:24:15,2025-03-02 06:04:15,intrusión,Monterrey,México,medio,79.0,cerrado,sensor,empresa
+INC-00715,2025-03-02 15:44:08,2025-03-02 16:27:08,robo,Bogotá,Colombia,alto,27.0,cerrado,cámara,empresa
+INC-00716,2025-03-02 19:14:49,2025-03-02 19:38:49,robo,Bilbao,España,crítico,5.0,cerrado,cámara,empresa
+INC-00717,2025-03-03 04:27:19,2025-03-03 06:04:19,fallo técnico,Ciudad de México,México,bajo,50.0,cerrado,sistema,empresa
+INC-00718,2025-03-05 04:09:36,2025-03-05 06:25:36,alarma,Monterrey,México,medio,84.0,cerrado,alarma,particular
+INC-00719,2025-03-05 18:17:51,2025-03-05 21:18:51,alarma,Antofagasta,Chile,bajo,132.0,cerrado,alarma,particular
+INC-00720,2025-03-05 21:57:20,,sabotaje,Zaragoza,España,bajo,,abierto,alarma,empresa
+INC-00721,2025-03-07 22:30:37,,fallo técnico,Zaragoza,España,bajo,,abierto,sensor,empresa
+INC-00722,2025-03-08 01:12:10,2025-03-08 03:10:10,intrusión,Barcelona,España,medio,75.0,cerrado,sensor,particular
+INC-00723,2025-03-08 12:24:38,2025-03-08 14:24:38,alarma,Ciudad de México,México,bajo,66.0,cerrado,sensor,particular
+INC-00724,2025-03-08 15:04:14,,otros,São Paulo,Brasil,medio,31.0,en proceso,sistema,particular
+INC-00725,2025-03-08 17:04:17,,otros,Rio de Janeiro,Brasil,alto,21.0,en proceso,alarma,empresa
+INC-00726,2025-03-09 00:23:19,,sabotaje,Santiago,Chile,bajo,60.0,en proceso,sistema,empresa
+INC-00727,2025-03-09 02:23:22,2025-03-09 04:37:22,intrusión,Barcelona,España,medio,80.0,cerrado,cámara,empresa
+INC-00728,2025-03-09 07:17:56,,sabotaje,Bilbao,España,medio,30.0,en proceso,cámara,empresa
+INC-00729,2025-03-09 19:17:43,2025-03-09 21:10:43,intrusión,Ciudad de México,México,medio,66.0,cerrado,sistema,empresa
+INC-00730,2025-03-11 20:48:15,2025-03-11 22:39:15,alarma,Ciudad de México,México,medio,77.0,cerrado,alarma,particular
+INC-00731,2025-03-14 02:57:53,,alarma,Buenos Aires,Argentina,medio,37.0,en proceso,alarma,empresa
+INC-00732,2025-03-14 08:08:10,2025-03-14 09:45:10,robo,Bogotá,Colombia,bajo,97.0,cerrado,cámara,empresa
+INC-00733,2025-03-14 22:58:08,2025-03-15 00:34:08,alarma,Rio de Janeiro,Brasil,medio,47.0,cerrado,sistema,empresa
+INC-00734,2025-03-15 02:16:45,,alarma,Ciudad de México,México,alto,,abierto,alarma,particular
+INC-00735,2025-03-15 04:05:23,,alarma,São Paulo,Brasil,alto,13.0,en proceso,alarma,empresa
+INC-00736,2025-03-15 04:15:17,,intrusión,Mendoza,Argentina,bajo,,abierto,cámara,empresa
+INC-00737,2025-03-15 15:50:49,2025-03-15 18:07:49,robo,Cartagena,Colombia,medio,85.0,cerrado,cámara,empresa
+INC-00738,2025-03-15 22:06:00,,otros,Valencia,España,bajo,,abierto,sensor,particular
+INC-00739,2025-03-16 03:16:14,,intrusión,Guadalajara,México,medio,32.0,en proceso,cámara,empresa
+INC-00740,2025-03-16 08:39:53,2025-03-16 10:41:53,robo,Madrid,España,medio,97.0,cerrado,alarma,particular
+INC-00741,2025-03-16 22:07:54,2025-03-16 23:43:54,alarma,Buenos Aires,Argentina,crítico,36.0,cerrado,sensor,empresa
+INC-00742,2025-03-20 03:21:13,,otros,Rio de Janeiro,Brasil,bajo,,abierto,sensor,empresa
+INC-00743,2025-03-21 01:04:42,,intrusión,Ciudad de México,México,alto,9.0,en proceso,cámara,empresa
+INC-00744,2025-03-21 08:14:23,,alarma,Tucumán,Argentina,bajo,,abierto,sensor,empresa
+INC-00745,2025-03-21 09:30:50,2025-03-21 11:29:50,robo,Guadalajara,México,medio,82.0,cerrado,cámara,empresa
+INC-00746,2025-03-21 16:41:17,2025-03-21 18:11:17,robo,Zaragoza,España,bajo,42.0,cerrado,alarma,empresa
+INC-00747,2025-03-21 19:51:56,2025-03-21 21:27:56,robo,Valencia,España,medio,55.0,cerrado,sistema,particular
+INC-00748,2025-03-22 11:08:43,2025-03-22 11:35:43,intrusión,Madrid,España,alto,27.0,cerrado,sistema,particular
+INC-00749,2025-03-22 19:29:11,2025-03-22 20:58:11,robo,Bogotá,Colombia,medio,59.0,cerrado,sensor,empresa
+INC-00750,2025-03-24 01:56:27,,alarma,Monterrey,México,bajo,44.0,en proceso,alarma,empresa
+INC-00751,2025-03-25 21:59:51,,intrusión,Ciudad de México,México,medio,72.0,en proceso,alarma,empresa
+INC-00752,2025-03-25 22:19:44,2025-03-25 23:46:44,sabotaje,São Paulo,Brasil,medio,27.0,cerrado,alarma,particular
+INC-00753,2025-03-26 04:03:14,2025-03-26 05:16:14,sabotaje,Antofagasta,Chile,bajo,64.0,cerrado,sistema,particular
+INC-00754,2025-03-26 14:00:46,,intrusión,Ciudad de México,México,medio,52.0,en proceso,cámara,empresa
+INC-00755,2025-03-27 07:12:43,2025-03-27 07:58:43,alarma,Rio de Janeiro,Brasil,alto,32.0,cerrado,cámara,empresa
+INC-00756,2025-03-29 00:45:51,,otros,Guadalajara,México,crítico,7.0,en proceso,cámara,empresa
+INC-00757,2025-03-29 01:11:35,2025-03-29 03:23:35,alarma,Santiago,Chile,medio,85.0,cerrado,alarma,empresa
+INC-00758,2025-03-29 01:12:29,2025-03-29 01:55:29,robo,Guadalajara,México,alto,30.0,cerrado,cámara,empresa
+INC-00759,2025-03-29 04:33:53,,sabotaje,Tucumán,Argentina,medio,43.0,en proceso,cámara,particular
+INC-00760,2025-03-29 18:27:19,2025-03-29 19:30:19,sabotaje,Buenos Aires,Argentina,alto,30.0,cerrado,sistema,empresa
+INC-00761,2025-03-29 23:57:27,2025-03-30 01:28:27,alarma,Ciudad de México,México,medio,54.0,cerrado,alarma,empresa
+INC-00762,2025-03-30 09:57:01,2025-03-30 13:22:01,alarma,São Paulo,Brasil,bajo,155.0,cerrado,alarma,empresa
+INC-00763,2025-03-30 13:18:54,2025-03-30 14:40:54,fallo técnico,Barcelona,España,medio,47.0,cerrado,alarma,empresa
+INC-00764,2025-03-30 15:57:32,2025-03-30 17:01:32,robo,Valencia,España,medio,16.0,cerrado,cámara,particular
+INC-00765,2025-04-01 21:33:25,,robo,Barcelona,España,bajo,51.0,en proceso,alarma,particular
+INC-00766,2025-04-02 21:56:20,2025-04-03 00:17:20,robo,Zaragoza,España,medio,89.0,cerrado,sensor,empresa
+INC-00767,2025-04-04 07:19:51,2025-04-04 08:02:51,robo,Fortaleza,Brasil,crítico,14.0,cerrado,cámara,particular
+INC-00768,2025-04-04 21:04:11,2025-04-04 22:33:11,alarma,Barcelona,España,medio,68.0,cerrado,alarma,empresa
+INC-00769,2025-04-05 12:00:45,2025-04-05 13:59:45,alarma,Guadalajara,México,medio,69.0,cerrado,sistema,empresa
+INC-00770,2025-04-05 16:22:08,2025-04-05 17:50:08,alarma,Madrid,España,medio,83.0,cerrado,alarma,particular
+INC-00771,2025-04-06 11:00:31,2025-04-06 12:24:31,alarma,São Paulo,Brasil,medio,64.0,cerrado,alarma,particular
+INC-00772,2025-04-06 18:32:08,2025-04-06 19:39:08,alarma,Rosario,Argentina,alto,13.0,cerrado,cámara,particular
+INC-00773,2025-04-06 21:19:44,2025-04-06 22:54:44,robo,Santiago,Chile,medio,83.0,cerrado,sistema,empresa
+INC-00774,2025-04-07 22:28:05,2025-04-07 23:52:05,alarma,Barcelona,España,medio,57.0,cerrado,alarma,empresa
+INC-00775,2025-04-08 21:14:00,2025-04-08 23:22:00,otros,Buenos Aires,Argentina,bajo,79.0,cerrado,sensor,particular
+INC-00776,2025-04-08 21:47:35,2025-04-08 23:12:35,fallo técnico,Tijuana,México,crítico,25.0,cerrado,sistema,empresa
+INC-00777,2025-04-09 01:10:28,,fallo técnico,Madrid,España,medio,42.0,en proceso,sensor,particular
+INC-00778,2025-04-09 23:03:59,2025-04-10 00:49:59,alarma,Medellín,Colombia,bajo,93.0,cerrado,alarma,particular
+INC-00779,2025-04-09 23:56:46,2025-04-10 01:22:46,alarma,Mendoza,Argentina,bajo,58.0,cerrado,alarma,empresa
+INC-00780,2025-04-10 06:41:40,,fallo técnico,Bogotá,Colombia,alto,13.0,en proceso,sistema,empresa
+INC-00781,2025-04-12 12:12:58,2025-04-12 13:22:58,otros,Guadalajara,México,alto,35.0,cerrado,sistema,particular
+INC-00782,2025-04-13 15:35:32,2025-04-13 16:57:32,robo,São Paulo,Brasil,medio,81.0,cerrado,alarma,empresa
+INC-00783,2025-04-13 15:38:34,2025-04-13 16:51:34,robo,Mendoza,Argentina,medio,50.0,cerrado,alarma,empresa
+INC-00784,2025-04-13 20:22:17,,robo,Bogotá,Colombia,medio,,abierto,cámara,particular
+INC-00785,2025-04-13 21:45:51,,robo,Barcelona,España,bajo,,abierto,alarma,particular
+INC-00786,2025-04-13 22:11:49,,intrusión,Monterrey,México,medio,24.0,en proceso,alarma,particular
+INC-00787,2025-04-15 00:57:51,2025-04-15 03:25:51,otros,Madrid,España,bajo,93.0,cerrado,sensor,empresa
+INC-00788,2025-04-15 14:19:43,,intrusión,Salvador,Brasil,crítico,,abierto,sensor,empresa
+INC-00789,2025-04-16 11:10:08,,fallo técnico,Santiago,Chile,medio,23.0,en proceso,sistema,particular
+INC-00790,2025-04-17 08:24:20,2025-04-17 10:03:20,robo,Rio de Janeiro,Brasil,bajo,39.0,cerrado,cámara,empresa
+INC-00791,2025-04-17 18:27:52,2025-04-17 19:37:52,fallo técnico,Sevilla,España,alto,23.0,cerrado,sensor,particular
+INC-00792,2025-04-18 22:54:10,2025-04-18 23:22:10,fallo técnico,Madrid,España,alto,28.0,cerrado,alarma,empresa
+INC-00793,2025-04-18 23:27:47,,fallo técnico,Madrid,España,crítico,6.0,en proceso,sistema,particular
+INC-00794,2025-04-19 00:09:16,,fallo técnico,Antofagasta,Chile,alto,11.0,en proceso,sistema,empresa
+INC-00795,2025-04-19 01:21:05,2025-04-19 02:23:05,alarma,Madrid,España,alto,40.0,cerrado,alarma,empresa
+INC-00796,2025-04-19 03:05:10,2025-04-19 03:48:10,alarma,Madrid,España,crítico,22.0,cerrado,alarma,empresa
+INC-00797,2025-04-19 17:27:34,,alarma,Guadalajara,México,bajo,,abierto,alarma,particular
+INC-00798,2025-04-20 18:52:16,2025-04-20 20:40:16,intrusión,Madrid,España,bajo,94.0,cerrado,cámara,empresa
+INC-00799,2025-04-20 21:24:21,2025-04-20 23:03:21,alarma,Ciudad de México,México,medio,73.0,cerrado,alarma,particular
+INC-00800,2025-04-22 23:30:48,,fallo técnico,Brasília,Brasil,medio,28.0,en proceso,sistema,empresa
+INC-00801,2025-04-23 20:34:51,,fallo técnico,Mendoza,Argentina,medio,,abierto,sistema,particular
+INC-00802,2025-04-25 08:02:04,2025-04-25 09:19:04,sabotaje,Barcelona,España,crítico,29.0,cerrado,alarma,particular
+INC-00803,2025-04-26 05:32:03,,robo,Santiago,Chile,bajo,38.0,en proceso,cámara,empresa
+INC-00804,2025-04-26 08:52:24,2025-04-26 10:37:24,alarma,Rio de Janeiro,Brasil,medio,56.0,cerrado,alarma,particular
+INC-00805,2025-04-26 10:20:42,,alarma,Ciudad de México,México,bajo,80.0,en proceso,alarma,empresa
+INC-00806,2025-04-26 21:52:34,2025-04-26 22:57:34,alarma,Rio de Janeiro,Brasil,alto,46.0,cerrado,alarma,empresa
+INC-00807,2025-04-27 08:46:51,2025-04-27 10:24:51,fallo técnico,Madrid,España,medio,78.0,cerrado,sensor,particular
+INC-00808,2025-04-27 14:37:15,2025-04-27 15:36:15,intrusión,Brasília,Brasil,alto,22.0,cerrado,alarma,empresa
+INC-00809,2025-04-28 04:00:35,2025-04-28 05:46:35,fallo técnico,Ciudad de México,México,medio,105.0,cerrado,sistema,particular
+INC-00810,2025-04-28 13:11:49,2025-04-28 14:28:49,sabotaje,Madrid,España,alto,41.0,cerrado,sistema,empresa
+INC-00811,2025-04-29 08:25:09,2025-04-29 12:21:09,robo,Buenos Aires,Argentina,bajo,186.0,cerrado,sensor,particular
+INC-00812,2025-04-30 16:55:27,2025-04-30 17:03:27,robo,Buenos Aires,Argentina,crítico,6.0,cerrado,cámara,empresa
+INC-00813,2025-05-01 02:43:59,2025-05-01 04:50:59,otros,Buenos Aires,Argentina,medio,68.0,cerrado,sensor,empresa
+INC-00814,2025-05-03 01:34:12,,sabotaje,Tucumán,Argentina,alto,8.0,en proceso,sistema,empresa
+INC-00815,2025-05-03 13:51:18,,alarma,São Paulo,Brasil,bajo,,abierto,alarma,particular
+INC-00816,2025-05-04 02:25:31,2025-05-04 03:48:31,robo,Madrid,España,alto,23.0,cerrado,sistema,empresa
+INC-00817,2025-05-04 04:43:57,2025-05-04 05:29:57,sabotaje,Buenos Aires,Argentina,crítico,25.0,cerrado,sensor,empresa
+INC-00818,2025-05-05 17:17:59,2025-05-05 18:40:59,alarma,Bogotá,Colombia,medio,47.0,cerrado,alarma,empresa
+INC-00819,2025-05-06 00:13:10,2025-05-06 01:18:10,intrusión,Antofagasta,Chile,alto,25.0,cerrado,alarma,particular
+INC-00820,2025-05-08 02:24:40,2025-05-08 03:20:40,alarma,Buenos Aires,Argentina,crítico,5.0,cerrado,sensor,empresa
+INC-00821,2025-05-08 08:40:20,2025-05-08 09:46:20,robo,Madrid,España,medio,28.0,cerrado,alarma,particular
+INC-00822,2025-05-08 13:38:09,2025-05-08 15:53:09,alarma,Ciudad de México,México,bajo,77.0,cerrado,alarma,empresa
+INC-00823,2025-05-08 14:57:55,2025-05-08 16:03:55,robo,Cartagena,Colombia,alto,28.0,cerrado,cámara,particular
+INC-00824,2025-05-08 17:59:22,,robo,Rio de Janeiro,Brasil,crítico,12.0,en proceso,cámara,particular
+INC-00825,2025-05-09 12:36:22,,sabotaje,Madrid,España,medio,28.0,en proceso,sistema,particular
+INC-00826,2025-05-09 21:25:19,2025-05-09 22:47:19,alarma,São Paulo,Brasil,bajo,58.0,cerrado,sistema,particular
+INC-00827,2025-05-09 22:44:36,2025-05-10 00:49:36,robo,Córdoba,Argentina,bajo,112.0,cerrado,alarma,empresa
+INC-00828,2025-05-10 09:36:22,2025-05-10 11:24:22,alarma,Buenos Aires,Argentina,medio,48.0,cerrado,alarma,empresa
+INC-00829,2025-05-11 03:54:46,,fallo técnico,Rosario,Argentina,medio,40.0,en proceso,sensor,particular
+INC-00830,2025-05-11 04:45:32,2025-05-11 05:30:32,robo,Buenos Aires,Argentina,crítico,11.0,cerrado,cámara,empresa
+INC-00831,2025-05-11 04:49:29,2025-05-11 05:19:29,robo,Rio de Janeiro,Brasil,crítico,6.0,cerrado,cámara,empresa
+INC-00832,2025-05-11 05:06:13,,robo,Valencia,España,bajo,,abierto,cámara,particular
+INC-00833,2025-05-11 17:18:34,2025-05-11 17:44:34,sabotaje,Buenos Aires,Argentina,crítico,14.0,cerrado,cámara,empresa
+INC-00834,2025-05-11 18:32:20,,sabotaje,Rio de Janeiro,Brasil,crítico,,abierto,cámara,empresa
+INC-00835,2025-05-12 01:36:41,2025-05-12 03:07:41,fallo técnico,Barcelona,España,medio,61.0,cerrado,sistema,empresa
+INC-00836,2025-05-12 04:09:04,2025-05-12 05:02:04,robo,Medellín,Colombia,medio,47.0,cerrado,cámara,empresa
+INC-00837,2025-05-13 09:13:03,2025-05-13 11:40:03,intrusión,Valparaíso,Chile,bajo,126.0,cerrado,alarma,empresa
+INC-00838,2025-05-13 10:50:22,,robo,Ciudad de México,México,medio,,abierto,alarma,empresa
+INC-00839,2025-05-13 19:29:20,2025-05-13 20:12:20,alarma,Brasília,Brasil,crítico,7.0,cerrado,alarma,particular
+INC-00840,2025-05-14 01:33:01,2025-05-14 02:47:01,robo,Ciudad de México,México,alto,46.0,cerrado,cámara,empresa
+INC-00841,2025-05-14 13:28:02,2025-05-14 15:27:02,robo,Córdoba,Argentina,medio,79.0,cerrado,alarma,particular
+INC-00842,2025-05-15 18:01:50,2025-05-15 20:04:50,intrusión,Ciudad de México,México,medio,66.0,cerrado,cámara,empresa
+INC-00843,2025-05-15 21:13:21,2025-05-15 23:11:21,otros,Madrid,España,bajo,99.0,cerrado,alarma,particular
+INC-00844,2025-05-16 11:40:57,2025-05-16 12:28:57,fallo técnico,Madrid,España,alto,43.0,cerrado,alarma,empresa
+INC-00845,2025-05-17 00:36:18,,alarma,Madrid,España,bajo,42.0,en proceso,alarma,empresa
+INC-00846,2025-05-17 09:53:37,2025-05-17 11:13:37,sabotaje,Madrid,España,medio,37.0,cerrado,alarma,particular
+INC-00847,2025-05-17 11:00:27,,otros,Guadalajara,México,medio,,abierto,sistema,empresa
+INC-00848,2025-05-17 12:54:46,2025-05-17 14:15:46,alarma,Rio de Janeiro,Brasil,medio,46.0,cerrado,cámara,empresa
+INC-00849,2025-05-17 14:04:57,2025-05-17 15:49:57,alarma,Brasília,Brasil,medio,94.0,cerrado,sensor,particular
+INC-00850,2025-05-17 16:17:25,2025-05-17 16:31:25,robo,Barcelona,España,crítico,12.0,cerrado,sistema,empresa
+INC-00851,2025-05-17 17:24:27,2025-05-17 21:26:27,alarma,Sevilla,España,bajo,190.0,cerrado,sistema,particular
+INC-00852,2025-05-17 21:34:36,2025-05-18 00:17:36,intrusión,Barcelona,España,bajo,119.0,cerrado,cámara,empresa
+INC-00853,2025-05-18 13:59:53,2025-05-18 17:00:53,alarma,Córdoba,Argentina,bajo,143.0,cerrado,sensor,empresa
+INC-00854,2025-05-21 09:21:35,2025-05-21 11:37:35,intrusión,Rosario,Argentina,medio,105.0,cerrado,alarma,empresa
+INC-00855,2025-05-21 11:45:35,,fallo técnico,São Paulo,Brasil,bajo,,abierto,sistema,particular
+INC-00856,2025-05-21 22:13:12,2025-05-21 23:28:12,fallo técnico,Ciudad de México,México,bajo,74.0,cerrado,sensor,empresa
+INC-00857,2025-05-23 23:04:15,,otros,São Paulo,Brasil,bajo,,abierto,sensor,particular
+INC-00858,2025-05-24 06:49:16,2025-05-24 07:52:16,sabotaje,Buenos Aires,Argentina,medio,52.0,cerrado,sistema,empresa
+INC-00859,2025-05-24 08:34:21,2025-05-24 10:04:21,fallo técnico,Salvador,Brasil,bajo,78.0,cerrado,sistema,empresa
+INC-00860,2025-05-24 16:17:51,2025-05-24 18:09:51,alarma,Mendoza,Argentina,bajo,108.0,cerrado,alarma,empresa
+INC-00861,2025-05-25 01:13:17,2025-05-25 03:23:17,alarma,Tijuana,México,medio,72.0,cerrado,sensor,particular
+INC-00862,2025-05-25 05:24:38,2025-05-25 06:17:38,alarma,Cali,Colombia,alto,29.0,cerrado,alarma,empresa
+INC-00863,2025-05-25 10:01:18,2025-05-25 10:24:18,intrusión,Zaragoza,España,crítico,5.0,cerrado,alarma,empresa
+INC-00864,2025-05-25 23:03:35,2025-05-26 00:13:35,fallo técnico,Ciudad de México,México,medio,57.0,cerrado,sistema,empresa
+INC-00865,2025-05-27 00:30:06,2025-05-27 02:18:06,sabotaje,Buenos Aires,Argentina,bajo,94.0,cerrado,sistema,empresa
+INC-00866,2025-05-27 18:57:44,2025-05-27 21:14:44,alarma,Cali,Colombia,bajo,119.0,cerrado,cámara,empresa
+INC-00867,2025-05-28 01:28:06,2025-05-28 02:37:06,intrusión,Ciudad de México,México,crítico,27.0,cerrado,cámara,empresa
+INC-00868,2025-05-29 21:19:38,2025-05-29 22:51:38,alarma,São Paulo,Brasil,alto,59.0,cerrado,sensor,particular
+INC-00869,2025-05-31 06:51:07,2025-05-31 08:21:07,otros,Bogotá,Colombia,bajo,86.0,cerrado,sensor,particular
+INC-00870,2025-05-31 16:25:30,,alarma,Rosario,Argentina,medio,26.0,en proceso,cámara,empresa
+INC-00871,2025-05-31 17:28:57,2025-05-31 18:19:57,robo,Rio de Janeiro,Brasil,alto,28.0,cerrado,sistema,particular
+INC-00872,2025-06-01 01:05:40,,alarma,Antofagasta,Chile,alto,16.0,en proceso,sistema,empresa
+INC-00873,2025-06-01 01:53:23,2025-06-01 03:15:23,robo,Buenos Aires,Argentina,medio,72.0,cerrado,cámara,empresa
+INC-00874,2025-06-01 03:43:01,2025-06-01 06:27:01,alarma,Tijuana,México,bajo,144.0,cerrado,cámara,empresa
+INC-00875,2025-06-01 07:13:37,2025-06-01 08:39:37,fallo técnico,Santiago,Chile,alto,31.0,cerrado,sistema,empresa
+INC-00876,2025-06-01 08:16:08,2025-06-01 09:56:08,fallo técnico,Madrid,España,alto,42.0,cerrado,cámara,empresa
+INC-00877,2025-06-01 08:23:45,,fallo técnico,Sevilla,España,bajo,,abierto,alarma,empresa
+INC-00878,2025-06-01 12:04:37,2025-06-01 13:12:37,otros,São Paulo,Brasil,medio,42.0,cerrado,cámara,empresa
+INC-00879,2025-06-03 00:18:46,,intrusión,Rio de Janeiro,Brasil,bajo,,abierto,alarma,empresa
+INC-00880,2025-06-04 22:50:06,,alarma,Cali,Colombia,alto,18.0,en proceso,sensor,empresa
+INC-00881,2025-06-05 12:18:41,2025-06-05 12:56:41,robo,Bogotá,Colombia,medio,31.0,cerrado,alarma,empresa
+INC-00882,2025-06-06 11:22:46,2025-06-06 11:58:46,sabotaje,Bilbao,España,alto,28.0,cerrado,sistema,empresa
+INC-00883,2025-06-07 05:24:35,,otros,São Paulo,Brasil,medio,,abierto,sistema,empresa
+INC-00884,2025-06-07 23:06:57,2025-06-08 01:24:57,otros,Barcelona,España,medio,104.0,cerrado,sensor,empresa
+INC-00885,2025-06-07 23:10:42,,robo,Ciudad de México,México,medio,10.0,en proceso,alarma,particular
+INC-00886,2025-06-07 23:43:21,2025-06-08 01:08:21,robo,Madrid,España,alto,38.0,cerrado,sistema,empresa
+INC-00887,2025-06-08 00:05:22,2025-06-08 01:52:22,fallo técnico,Buenos Aires,Argentina,bajo,103.0,cerrado,sistema,particular
+INC-00888,2025-06-08 13:07:18,2025-06-08 15:38:18,robo,Buenos Aires,Argentina,bajo,127.0,cerrado,sistema,particular
+INC-00889,2025-06-08 22:35:55,2025-06-09 00:34:55,robo,Valparaíso,Chile,medio,62.0,cerrado,alarma,empresa
+INC-00890,2025-06-09 13:05:58,2025-06-09 14:06:58,fallo técnico,Bilbao,España,alto,6.0,cerrado,sensor,empresa
+INC-00891,2025-06-09 13:26:06,2025-06-09 15:20:06,robo,Barcelona,España,medio,101.0,cerrado,sensor,empresa
+INC-00892,2025-06-14 01:50:38,2025-06-14 04:11:38,alarma,Zaragoza,España,bajo,133.0,cerrado,alarma,empresa
+INC-00893,2025-06-14 05:10:20,,intrusión,São Paulo,Brasil,bajo,,abierto,sistema,particular
+INC-00894,2025-06-15 00:00:44,2025-06-15 01:51:44,alarma,Buenos Aires,Argentina,alto,56.0,cerrado,sensor,empresa
+INC-00895,2025-06-15 10:42:30,2025-06-15 11:19:30,alarma,Buenos Aires,Argentina,alto,24.0,cerrado,alarma,empresa
+INC-00896,2025-06-15 22:39:06,2025-06-16 00:15:06,fallo técnico,Buenos Aires,Argentina,medio,77.0,cerrado,sensor,empresa
+INC-00897,2025-06-16 20:13:44,,fallo técnico,São Paulo,Brasil,medio,31.0,en proceso,cámara,empresa
+INC-00898,2025-06-17 14:52:56,,robo,Madrid,España,medio,,abierto,cámara,empresa
+INC-00899,2025-06-18 09:59:02,2025-06-18 11:27:02,alarma,Guadalajara,México,bajo,43.0,cerrado,sensor,empresa
+INC-00900,2025-06-18 15:32:57,2025-06-18 17:10:57,fallo técnico,Antofagasta,Chile,medio,56.0,cerrado,cámara,empresa
+INC-00901,2025-06-19 12:09:03,2025-06-19 14:07:03,alarma,Mendoza,Argentina,medio,88.0,cerrado,alarma,particular
+INC-00902,2025-06-20 02:52:42,2025-06-20 03:32:42,alarma,Ciudad de México,México,crítico,30.0,cerrado,alarma,empresa
+INC-00903,2025-06-21 02:15:38,2025-06-21 03:06:38,fallo técnico,Bilbao,España,medio,13.0,cerrado,sensor,empresa
+INC-00904,2025-06-21 03:53:12,2025-06-21 05:32:12,fallo técnico,Tucumán,Argentina,medio,63.0,cerrado,sensor,empresa
+INC-00905,2025-06-21 13:26:09,,alarma,Salvador,Brasil,bajo,,abierto,alarma,empresa
+INC-00906,2025-06-21 22:50:02,2025-06-22 01:34:02,intrusión,Madrid,España,medio,104.0,cerrado,cámara,empresa
+INC-00907,2025-06-22 05:29:58,,fallo técnico,Cali,Colombia,crítico,,abierto,sensor,empresa
+INC-00908,2025-06-22 17:50:01,2025-06-22 19:30:01,robo,Ciudad de México,México,medio,81.0,cerrado,cámara,particular
+INC-00909,2025-06-23 10:56:49,2025-06-23 12:32:49,alarma,Rio de Janeiro,Brasil,medio,59.0,cerrado,cámara,empresa
+INC-00910,2025-06-25 06:18:10,2025-06-25 07:00:10,alarma,Monterrey,México,alto,30.0,cerrado,alarma,empresa
+INC-00911,2025-06-25 06:29:30,2025-06-25 07:24:30,robo,Barcelona,España,crítico,23.0,cerrado,sensor,particular
+INC-00912,2025-06-27 16:05:54,2025-06-27 17:18:54,intrusión,Bogotá,Colombia,alto,28.0,cerrado,alarma,empresa
+INC-00913,2025-06-27 21:00:40,2025-06-27 22:18:40,robo,Rio de Janeiro,Brasil,alto,35.0,cerrado,alarma,empresa
+INC-00914,2025-06-28 06:33:42,,sabotaje,Santiago,Chile,alto,,abierto,cámara,empresa
+INC-00915,2025-06-29 11:43:49,2025-06-29 14:42:49,robo,Ciudad de México,México,bajo,150.0,cerrado,alarma,particular
+INC-00916,2025-06-29 14:42:07,2025-06-29 16:28:07,alarma,Madrid,España,medio,89.0,cerrado,alarma,particular
+INC-00917,2025-06-29 17:10:20,2025-06-29 18:08:20,alarma,Madrid,España,alto,46.0,cerrado,alarma,empresa
+INC-00918,2025-06-29 18:19:30,2025-06-29 18:59:30,robo,Salvador,Brasil,medio,40.0,cerrado,cámara,empresa
+INC-00919,2025-06-29 18:26:15,2025-06-29 19:08:15,alarma,Madrid,España,bajo,33.0,cerrado,alarma,empresa
+INC-00920,2025-06-29 21:45:24,2025-06-29 22:41:24,intrusión,Medellín,Colombia,alto,28.0,cerrado,cámara,particular
+INC-00921,2025-07-01 12:07:00,2025-07-01 12:43:00,alarma,Salvador,Brasil,medio,32.0,cerrado,alarma,empresa
+INC-00922,2025-07-02 08:03:19,2025-07-02 10:19:19,otros,São Paulo,Brasil,medio,84.0,cerrado,sensor,empresa
+INC-00923,2025-07-02 18:43:21,,alarma,Buenos Aires,Argentina,bajo,,abierto,alarma,empresa
+INC-00924,2025-07-03 10:12:29,2025-07-03 11:46:29,fallo técnico,Madrid,España,bajo,69.0,cerrado,sistema,particular
+INC-00925,2025-07-03 12:05:35,,intrusión,Rio de Janeiro,Brasil,medio,,abierto,alarma,particular
+INC-00926,2025-07-03 18:14:59,2025-07-03 19:10:59,alarma,Brasília,Brasil,crítico,18.0,cerrado,alarma,empresa
+INC-00927,2025-07-04 00:31:32,2025-07-04 03:13:32,sabotaje,Rio de Janeiro,Brasil,medio,111.0,cerrado,sistema,empresa
+INC-00928,2025-07-04 17:33:48,2025-07-04 18:30:48,alarma,Sevilla,España,alto,42.0,cerrado,alarma,particular
+INC-00929,2025-07-04 23:06:59,2025-07-05 00:22:59,robo,Santiago,Chile,medio,43.0,cerrado,alarma,empresa
+INC-00930,2025-07-05 09:49:29,2025-07-05 11:41:29,alarma,Cali,Colombia,medio,91.0,cerrado,sensor,empresa
+INC-00931,2025-07-05 23:47:42,,fallo técnico,Guadalajara,México,alto,,abierto,alarma,empresa
+INC-00932,2025-07-06 04:23:25,2025-07-06 06:24:25,otros,Bilbao,España,medio,63.0,cerrado,alarma,particular
+INC-00933,2025-07-06 07:53:49,,robo,Tijuana,México,bajo,,abierto,cámara,particular
+INC-00934,2025-07-06 10:32:44,2025-07-06 14:39:44,robo,Sevilla,España,bajo,211.0,cerrado,sistema,empresa
+INC-00935,2025-07-06 11:07:11,2025-07-06 13:06:11,fallo técnico,Barcelona,España,bajo,63.0,cerrado,alarma,empresa
+INC-00936,2025-07-06 14:49:40,2025-07-06 17:24:40,intrusión,Córdoba,Argentina,bajo,124.0,cerrado,sensor,empresa
+INC-00937,2025-07-07 09:19:15,2025-07-07 10:04:15,robo,Ciudad de México,México,crítico,16.0,cerrado,cámara,empresa
+INC-00938,2025-07-09 20:08:37,,intrusión,Rio de Janeiro,Brasil,bajo,41.0,en proceso,sensor,particular
+INC-00939,2025-07-12 05:30:08,2025-07-12 06:37:08,alarma,Ciudad de México,México,medio,65.0,cerrado,sensor,empresa
+INC-00940,2025-07-12 13:02:01,,alarma,Buenos Aires,Argentina,crítico,,abierto,sistema,empresa
+INC-00941,2025-07-12 20:09:19,2025-07-12 22:26:19,alarma,Santiago,Chile,medio,90.0,cerrado,cámara,empresa
+INC-00942,2025-07-13 01:02:36,,robo,Bogotá,Colombia,bajo,49.0,en proceso,sensor,empresa
+INC-00943,2025-07-13 13:20:28,2025-07-13 14:51:28,otros,Buenos Aires,Argentina,bajo,50.0,cerrado,sistema,empresa
+INC-00944,2025-07-13 15:49:04,2025-07-13 16:59:04,alarma,Zaragoza,España,crítico,14.0,cerrado,alarma,empresa
+INC-00945,2025-07-13 17:41:03,2025-07-13 18:57:03,alarma,Ciudad de México,México,alto,18.0,cerrado,alarma,empresa
+INC-00946,2025-07-14 00:40:45,2025-07-14 02:06:45,sabotaje,Barcelona,España,medio,57.0,cerrado,cámara,particular
+INC-00947,2025-07-16 09:28:56,2025-07-16 10:34:56,fallo técnico,Buenos Aires,Argentina,medio,44.0,cerrado,sistema,particular
+INC-00948,2025-07-16 21:04:16,2025-07-16 22:22:16,robo,Córdoba,Argentina,alto,34.0,cerrado,cámara,empresa
+INC-00949,2025-07-17 02:20:16,,alarma,Madrid,España,bajo,,abierto,sensor,empresa
+INC-00950,2025-07-17 19:43:39,,otros,Madrid,España,medio,,abierto,sistema,empresa
+INC-00951,2025-07-17 20:34:53,2025-07-17 23:15:53,otros,Valparaíso,Chile,medio,108.0,cerrado,cámara,empresa
+INC-00952,2025-07-17 23:29:45,,sabotaje,Sevilla,España,bajo,22.0,en proceso,cámara,empresa
+INC-00953,2025-07-18 02:04:19,2025-07-18 02:53:19,robo,Brasília,Brasil,medio,30.0,cerrado,alarma,particular
+INC-00954,2025-07-19 17:27:29,2025-07-19 19:39:29,sabotaje,São Paulo,Brasil,bajo,107.0,cerrado,sensor,particular
+INC-00955,2025-07-19 20:44:23,2025-07-19 22:43:23,robo,Ciudad de México,México,medio,80.0,cerrado,cámara,empresa
+INC-00956,2025-07-20 07:59:37,2025-07-20 09:33:37,robo,Barcelona,España,medio,42.0,cerrado,cámara,empresa
+INC-00957,2025-07-20 11:12:18,2025-07-20 12:44:18,otros,Sevilla,España,alto,41.0,cerrado,sensor,particular
+INC-00958,2025-07-20 18:59:36,2025-07-20 21:26:36,alarma,Madrid,España,medio,93.0,cerrado,alarma,empresa
+INC-00959,2025-07-21 07:00:04,,alarma,Salvador,Brasil,bajo,46.0,en proceso,sensor,empresa
+INC-00960,2025-07-21 16:09:28,,alarma,Bogotá,Colombia,medio,,abierto,alarma,empresa
+INC-00961,2025-07-21 19:50:20,2025-07-21 23:30:20,fallo técnico,Ciudad de México,México,bajo,205.0,cerrado,alarma,empresa
+INC-00962,2025-07-22 01:00:36,2025-07-22 02:00:36,robo,Madrid,España,medio,49.0,cerrado,sistema,empresa
+INC-00963,2025-07-22 14:11:19,2025-07-22 16:21:19,robo,Valparaíso,Chile,bajo,73.0,cerrado,alarma,particular
+INC-00964,2025-07-23 17:35:21,2025-07-23 19:31:21,robo,São Paulo,Brasil,medio,77.0,cerrado,alarma,empresa
+INC-00965,2025-07-24 04:54:44,,intrusión,Guadalajara,México,bajo,49.0,en proceso,cámara,empresa
+INC-00966,2025-07-25 07:58:16,2025-07-25 08:53:16,alarma,Santiago,Chile,alto,26.0,cerrado,sensor,particular
+INC-00967,2025-07-26 03:38:54,2025-07-26 07:14:54,fallo técnico,Rosario,Argentina,bajo,192.0,cerrado,sensor,particular
+INC-00968,2025-07-26 05:16:10,2025-07-26 07:03:10,robo,Brasília,Brasil,medio,49.0,cerrado,cámara,particular
+INC-00969,2025-07-26 06:55:58,,alarma,Monterrey,México,medio,42.0,en proceso,alarma,particular
+INC-00970,2025-07-26 14:39:52,,intrusión,Córdoba,Argentina,bajo,,abierto,alarma,empresa
+INC-00971,2025-07-26 16:54:34,2025-07-26 17:52:34,alarma,Santiago,Chile,crítico,14.0,cerrado,cámara,empresa
+INC-00972,2025-07-28 02:56:44,,robo,Ciudad de México,México,crítico,18.0,en proceso,cámara,empresa
+INC-00973,2025-07-28 20:44:34,2025-07-28 22:55:34,otros,Brasília,Brasil,medio,106.0,cerrado,sensor,empresa
+INC-00974,2025-07-29 14:47:37,,alarma,Bogotá,Colombia,crítico,,abierto,alarma,empresa
+INC-00975,2025-07-29 17:18:04,2025-07-29 19:19:04,alarma,Rio de Janeiro,Brasil,medio,77.0,cerrado,alarma,particular
+INC-00976,2025-07-31 00:05:02,,fallo técnico,Buenos Aires,Argentina,medio,27.0,en proceso,cámara,empresa
+INC-00977,2025-07-31 06:53:51,,fallo técnico,Fortaleza,Brasil,alto,25.0,en proceso,sistema,particular
+INC-00978,2025-07-31 12:43:57,,otros,Salvador,Brasil,bajo,,abierto,cámara,empresa
+INC-00979,2025-07-31 14:43:51,2025-07-31 18:36:51,intrusión,Bogotá,Colombia,bajo,178.0,cerrado,alarma,empresa
+INC-00980,2025-07-31 17:11:43,2025-07-31 17:38:43,intrusión,Buenos Aires,Argentina,crítico,17.0,cerrado,cámara,empresa
+INC-00981,2025-07-31 20:30:37,,intrusión,Madrid,España,medio,17.0,en proceso,alarma,empresa
+INC-00982,2025-07-31 22:42:06,2025-08-01 00:08:06,robo,Bilbao,España,alto,46.0,cerrado,alarma,empresa
+INC-00983,2025-08-01 17:13:37,,otros,Córdoba,Argentina,bajo,47.0,en proceso,sistema,empresa
+INC-00984,2025-08-02 05:10:11,,intrusión,São Paulo,Brasil,crítico,,abierto,cámara,particular
+INC-00985,2025-08-02 08:40:43,,alarma,Barcelona,España,alto,25.0,en proceso,sistema,particular
+INC-00986,2025-08-04 19:20:58,,alarma,Rosario,Argentina,crítico,5.0,en proceso,alarma,empresa
+INC-00987,2025-08-04 21:08:15,2025-08-04 22:28:15,alarma,Buenos Aires,Argentina,alto,34.0,cerrado,sensor,particular
+INC-00988,2025-08-05 01:51:41,2025-08-05 05:23:41,alarma,São Paulo,Brasil,bajo,166.0,cerrado,sensor,empresa
+INC-00989,2025-08-05 02:58:02,2025-08-05 04:13:02,robo,Madrid,España,crítico,18.0,cerrado,cámara,empresa
+INC-00990,2025-08-06 19:02:39,,alarma,Santiago,Chile,medio,32.0,en proceso,alarma,empresa
+INC-00991,2025-08-06 20:24:23,,fallo técnico,Barcelona,España,bajo,,abierto,sistema,particular
+INC-00992,2025-08-07 00:59:35,,alarma,Madrid,España,medio,22.0,en proceso,sensor,particular
+INC-00993,2025-08-07 02:15:49,2025-08-07 04:20:49,robo,São Paulo,Brasil,medio,77.0,cerrado,cámara,empresa
+INC-00994,2025-08-08 19:47:33,2025-08-08 21:34:33,robo,Bilbao,España,medio,72.0,cerrado,cámara,empresa
+INC-00995,2025-08-09 05:16:59,2025-08-09 07:04:59,fallo técnico,São Paulo,Brasil,medio,101.0,cerrado,sistema,empresa
+INC-00996,2025-08-09 15:28:20,2025-08-09 16:31:20,intrusión,São Paulo,Brasil,alto,40.0,cerrado,sensor,empresa
+INC-00997,2025-08-09 20:23:44,2025-08-09 21:06:44,alarma,São Paulo,Brasil,medio,39.0,cerrado,alarma,particular
+INC-00998,2025-08-10 02:19:39,2025-08-10 04:47:39,sabotaje,Zaragoza,España,medio,100.0,cerrado,sensor,empresa
+INC-00999,2025-08-10 04:05:49,2025-08-10 05:19:49,intrusión,Sevilla,España,bajo,68.0,cerrado,cámara,empresa
+INC-01000,2025-08-10 07:39:47,2025-08-10 09:41:47,robo,Barcelona,España,medio,90.0,cerrado,cámara,empresa
+INC-01001,2025-08-10 12:57:25,2025-08-10 14:02:25,alarma,Madrid,España,crítico,16.0,cerrado,alarma,empresa
+INC-01002,2025-08-10 18:46:58,2025-08-10 20:02:58,robo,Barcelona,España,crítico,27.0,cerrado,sensor,empresa
+INC-01003,2025-08-11 04:18:27,,intrusión,Guadalajara,México,medio,,abierto,alarma,particular
+INC-01004,2025-08-11 14:24:36,,robo,Madrid,España,bajo,31.0,en proceso,cámara,empresa
+INC-01005,2025-08-12 08:10:37,2025-08-12 09:55:37,alarma,Madrid,España,medio,77.0,cerrado,cámara,particular
+INC-01006,2025-08-12 11:25:29,2025-08-12 13:42:29,alarma,Valencia,España,bajo,127.0,cerrado,sensor,particular
+INC-01007,2025-08-12 21:26:27,2025-08-12 23:15:27,robo,Concepción,Chile,medio,93.0,cerrado,alarma,particular
+INC-01008,2025-08-13 01:45:27,2025-08-13 02:56:27,alarma,Medellín,Colombia,medio,58.0,cerrado,alarma,empresa
+INC-01009,2025-08-13 05:30:33,2025-08-13 06:49:33,robo,Tucumán,Argentina,alto,47.0,cerrado,sensor,empresa
+INC-01010,2025-08-14 15:50:21,,robo,Valparaíso,Chile,bajo,41.0,en proceso,cámara,empresa
+INC-01011,2025-08-15 10:17:04,,robo,Sevilla,España,bajo,30.0,en proceso,cámara,empresa
+INC-01012,2025-08-15 13:22:44,2025-08-15 16:53:44,intrusión,São Paulo,Brasil,bajo,171.0,cerrado,cámara,particular
+INC-01013,2025-08-16 17:38:20,2025-08-16 20:31:20,fallo técnico,Buenos Aires,Argentina,bajo,129.0,cerrado,sistema,empresa
+INC-01014,2025-08-17 23:57:02,2025-08-18 00:50:02,sabotaje,Barcelona,España,crítico,10.0,cerrado,alarma,empresa
+INC-01015,2025-08-19 11:29:06,2025-08-19 13:04:06,fallo técnico,Zaragoza,España,alto,48.0,cerrado,sistema,empresa
+INC-01016,2025-08-19 16:25:54,2025-08-19 17:55:54,otros,Mendoza,Argentina,medio,61.0,cerrado,cámara,empresa
+INC-01017,2025-08-20 14:29:49,2025-08-20 15:36:49,robo,Barcelona,España,medio,43.0,cerrado,sistema,empresa
+INC-01018,2025-08-20 14:40:16,,robo,Guadalajara,México,alto,15.0,en proceso,cámara,empresa
+INC-01019,2025-08-20 20:21:24,,robo,Madrid,España,medio,29.0,en proceso,sistema,empresa
+INC-01020,2025-08-21 18:23:51,2025-08-21 18:50:51,fallo técnico,Bilbao,España,crítico,15.0,cerrado,sistema,empresa
+INC-01021,2025-08-22 02:22:59,2025-08-22 05:01:59,fallo técnico,Buenos Aires,Argentina,bajo,134.0,cerrado,sistema,empresa
+INC-01022,2025-08-23 16:48:32,,sabotaje,Sevilla,España,alto,17.0,en proceso,alarma,empresa
+INC-01023,2025-08-24 02:33:16,2025-08-24 03:48:16,otros,Valencia,España,medio,59.0,cerrado,cámara,particular
+INC-01024,2025-08-26 01:53:24,2025-08-26 03:14:24,intrusión,Bogotá,Colombia,medio,74.0,cerrado,cámara,empresa
+INC-01025,2025-08-26 17:23:44,2025-08-26 20:50:44,robo,Barcelona,España,bajo,162.0,cerrado,alarma,empresa
+INC-01026,2025-08-27 01:35:16,2025-08-27 03:01:16,otros,Madrid,España,crítico,28.0,cerrado,alarma,particular
+INC-01027,2025-08-27 04:20:07,2025-08-27 05:27:07,robo,São Paulo,Brasil,bajo,59.0,cerrado,cámara,empresa
+INC-01028,2025-08-27 11:14:38,2025-08-27 13:32:38,alarma,Buenos Aires,Argentina,bajo,118.0,cerrado,sensor,particular
+INC-01029,2025-08-27 13:01:15,,robo,Salvador,Brasil,bajo,,abierto,alarma,particular
+INC-01030,2025-08-28 22:22:36,2025-08-29 00:32:36,alarma,Cartagena,Colombia,medio,88.0,cerrado,alarma,empresa
+INC-01031,2025-08-29 07:53:59,2025-08-29 10:59:59,robo,Buenos Aires,Argentina,bajo,139.0,cerrado,alarma,particular
+INC-01032,2025-08-30 02:07:17,2025-08-30 03:45:17,robo,Brasília,Brasil,medio,69.0,cerrado,cámara,particular
+INC-01033,2025-08-30 12:04:50,2025-08-30 13:26:50,alarma,Valparaíso,Chile,alto,51.0,cerrado,alarma,empresa
+INC-01034,2025-08-31 10:28:30,,alarma,Buenos Aires,Argentina,crítico,9.0,en proceso,alarma,empresa
+INC-01035,2025-08-31 15:37:35,2025-08-31 16:52:35,alarma,São Paulo,Brasil,medio,70.0,cerrado,alarma,empresa
+INC-01036,2025-09-02 04:08:34,2025-09-02 05:06:34,sabotaje,Buenos Aires,Argentina,crítico,23.0,cerrado,cámara,empresa
+INC-01037,2025-09-03 00:35:23,2025-09-03 02:47:23,alarma,Buenos Aires,Argentina,bajo,90.0,cerrado,sensor,particular
+INC-01038,2025-09-03 05:40:31,2025-09-03 06:04:31,robo,Sevilla,España,crítico,9.0,cerrado,cámara,empresa
+INC-01039,2025-09-06 03:36:32,2025-09-06 04:58:32,sabotaje,Guadalajara,México,alto,37.0,cerrado,sensor,empresa
+INC-01040,2025-09-06 09:46:43,2025-09-06 11:59:43,alarma,São Paulo,Brasil,medio,73.0,cerrado,alarma,particular
+INC-01041,2025-09-06 10:43:08,2025-09-06 12:11:08,sabotaje,Barcelona,España,medio,60.0,cerrado,cámara,empresa
+INC-01042,2025-09-08 06:11:42,2025-09-08 08:48:42,sabotaje,Bogotá,Colombia,bajo,149.0,cerrado,sistema,empresa
+INC-01043,2025-09-08 20:04:11,2025-09-08 21:23:11,robo,Zaragoza,España,bajo,49.0,cerrado,alarma,empresa
+INC-01044,2025-09-09 02:12:51,2025-09-09 03:47:51,sabotaje,Valencia,España,alto,43.0,cerrado,sensor,empresa
+INC-01045,2025-09-09 10:18:29,2025-09-09 11:07:29,alarma,Monterrey,México,medio,32.0,cerrado,alarma,particular
+INC-01046,2025-09-09 21:06:53,,alarma,Rio de Janeiro,Brasil,medio,,abierto,alarma,empresa
+INC-01047,2025-09-09 23:12:18,2025-09-10 01:00:18,robo,Buenos Aires,Argentina,medio,55.0,cerrado,cámara,empresa
+INC-01048,2025-09-10 21:06:27,2025-09-10 22:49:27,sabotaje,Buenos Aires,Argentina,bajo,93.0,cerrado,alarma,empresa
+INC-01049,2025-09-11 21:48:57,2025-09-11 22:22:57,intrusión,Madrid,España,alto,24.0,cerrado,sensor,empresa
+INC-01050,2025-09-12 04:32:40,2025-09-12 06:58:40,intrusión,São Paulo,Brasil,bajo,93.0,cerrado,cámara,empresa
+INC-01051,2025-09-12 23:42:51,,alarma,São Paulo,Brasil,bajo,18.0,en proceso,sensor,empresa
+INC-01052,2025-09-13 08:13:48,2025-09-13 08:43:48,robo,Rio de Janeiro,Brasil,crítico,24.0,cerrado,cámara,empresa
+INC-01053,2025-09-14 14:02:08,,sabotaje,Ciudad de México,México,bajo,30.0,en proceso,alarma,particular
+INC-01054,2025-09-14 18:33:14,2025-09-14 19:15:14,intrusión,Ciudad de México,México,alto,35.0,cerrado,sistema,particular
+INC-01055,2025-09-14 22:01:54,2025-09-14 23:59:54,alarma,Salvador,Brasil,medio,84.0,cerrado,alarma,empresa
+INC-01056,2025-09-16 02:40:52,,intrusión,Buenos Aires,Argentina,medio,38.0,en proceso,cámara,particular
+INC-01057,2025-09-16 15:40:47,2025-09-16 16:21:47,alarma,Buenos Aires,Argentina,crítico,31.0,cerrado,sensor,empresa
+INC-01058,2025-09-18 18:06:59,2025-09-18 19:45:59,alarma,Buenos Aires,Argentina,medio,95.0,cerrado,sensor,empresa
+INC-01059,2025-09-19 18:04:06,,robo,Barcelona,España,bajo,59.0,en proceso,cámara,particular
+INC-01060,2025-09-20 16:08:28,2025-09-20 18:19:28,alarma,Barcelona,España,bajo,131.0,cerrado,alarma,particular
+INC-01061,2025-09-21 13:12:31,,robo,Monterrey,México,bajo,79.0,en proceso,cámara,empresa
+INC-01062,2025-09-21 16:41:10,2025-09-21 16:55:10,alarma,Bogotá,Colombia,crítico,5.0,cerrado,alarma,empresa
+INC-01063,2025-09-21 17:32:48,2025-09-21 18:30:48,robo,Santiago,Chile,alto,30.0,cerrado,cámara,empresa
+INC-01064,2025-09-23 09:31:26,2025-09-23 11:52:26,fallo técnico,Santiago,Chile,bajo,119.0,cerrado,sistema,empresa
+INC-01065,2025-09-24 03:50:06,2025-09-24 05:00:06,robo,São Paulo,Brasil,medio,59.0,cerrado,cámara,empresa
+INC-01066,2025-09-24 12:09:10,2025-09-24 14:58:10,intrusión,Madrid,España,bajo,156.0,cerrado,alarma,empresa
+INC-01067,2025-09-27 05:30:24,2025-09-27 07:40:24,fallo técnico,Guadalajara,México,medio,85.0,cerrado,alarma,empresa
+INC-01068,2025-09-27 10:28:21,2025-09-27 11:08:21,alarma,Buenos Aires,Argentina,medio,38.0,cerrado,alarma,empresa
+INC-01069,2025-09-27 23:04:42,2025-09-28 00:57:42,otros,Barcelona,España,medio,56.0,cerrado,sensor,empresa
+INC-01070,2025-09-28 20:35:01,2025-09-28 21:40:01,sabotaje,Valencia,España,crítico,22.0,cerrado,cámara,empresa
+INC-01071,2025-09-29 11:37:31,2025-09-29 12:47:31,sabotaje,Buenos Aires,Argentina,alto,36.0,cerrado,sensor,empresa
+INC-01072,2025-10-01 15:05:08,2025-10-01 15:44:08,fallo técnico,Brasília,Brasil,alto,26.0,cerrado,sensor,particular
+INC-01073,2025-10-02 11:41:09,2025-10-02 12:51:09,alarma,Rio de Janeiro,Brasil,medio,42.0,cerrado,sensor,particular
+INC-01074,2025-10-03 06:23:29,,robo,Rio de Janeiro,Brasil,bajo,32.0,en proceso,alarma,particular
+INC-01075,2025-10-03 21:40:49,,intrusión,São Paulo,Brasil,bajo,70.0,en proceso,alarma,particular
+INC-01076,2025-10-04 09:50:28,2025-10-04 12:30:28,robo,Córdoba,Argentina,bajo,109.0,cerrado,cámara,particular
+INC-01077,2025-10-04 14:04:30,2025-10-04 15:50:30,intrusión,Guadalajara,México,medio,73.0,cerrado,alarma,empresa
+INC-01078,2025-10-04 19:14:22,2025-10-04 21:06:22,robo,Barcelona,España,medio,71.0,cerrado,cámara,empresa
+INC-01079,2025-10-04 19:16:20,,alarma,Barcelona,España,alto,21.0,en proceso,alarma,empresa
+INC-01080,2025-10-04 22:49:19,2025-10-05 00:41:19,robo,Valencia,España,medio,70.0,cerrado,sensor,particular
+INC-01081,2025-10-05 03:38:48,2025-10-05 05:47:48,alarma,Buenos Aires,Argentina,medio,72.0,cerrado,sistema,empresa
+INC-01082,2025-10-05 06:03:11,2025-10-05 08:17:11,otros,Barcelona,España,bajo,128.0,cerrado,sensor,empresa
+INC-01083,2025-10-05 13:27:44,2025-10-05 13:56:44,alarma,Córdoba,Argentina,alto,5.0,cerrado,alarma,empresa
+INC-01084,2025-10-05 18:48:37,2025-10-05 20:58:37,robo,Rio de Janeiro,Brasil,medio,86.0,cerrado,cámara,empresa
+INC-01085,2025-10-06 20:42:27,2025-10-06 23:26:27,robo,São Paulo,Brasil,bajo,145.0,cerrado,cámara,empresa
+INC-01086,2025-10-06 23:21:16,2025-10-07 01:20:16,alarma,Guadalajara,México,medio,91.0,cerrado,sensor,particular
+INC-01087,2025-10-11 12:20:23,,alarma,Cali,Colombia,medio,8.0,en proceso,cámara,empresa
+INC-01088,2025-10-11 14:17:13,2025-10-11 15:58:13,alarma,Zaragoza,España,bajo,101.0,cerrado,sistema,empresa
+INC-01089,2025-10-11 19:04:30,2025-10-11 19:38:30,intrusión,Córdoba,Argentina,medio,31.0,cerrado,alarma,empresa
+INC-01090,2025-10-12 00:56:50,,alarma,Madrid,España,bajo,,abierto,sensor,particular
+INC-01091,2025-10-13 02:52:09,2025-10-13 04:07:09,robo,São Paulo,Brasil,crítico,26.0,cerrado,cámara,empresa
+INC-01092,2025-10-15 03:05:54,2025-10-15 03:53:54,robo,Bogotá,Colombia,medio,24.0,cerrado,cámara,particular
+INC-01093,2025-10-16 17:47:56,2025-10-16 19:07:56,alarma,Ciudad de México,México,alto,31.0,cerrado,cámara,empresa
+INC-01094,2025-10-16 20:34:18,2025-10-16 20:51:18,robo,Córdoba,Argentina,crítico,5.0,cerrado,alarma,empresa
+INC-01095,2025-10-16 23:17:15,2025-10-17 00:37:15,robo,Córdoba,Argentina,crítico,21.0,cerrado,cámara,empresa
+INC-01096,2025-10-17 09:16:50,2025-10-17 11:42:50,alarma,Rio de Janeiro,Brasil,bajo,131.0,cerrado,sensor,empresa
+INC-01097,2025-10-17 17:39:03,2025-10-17 19:22:03,sabotaje,Ciudad de México,México,medio,80.0,cerrado,sistema,particular
+INC-01098,2025-10-18 09:27:10,2025-10-18 11:48:10,robo,Buenos Aires,Argentina,medio,83.0,cerrado,cámara,empresa
+INC-01099,2025-10-18 15:56:08,2025-10-18 17:18:08,alarma,Bogotá,Colombia,medio,67.0,cerrado,sensor,empresa
+INC-01100,2025-10-20 12:54:22,2025-10-20 13:39:22,sabotaje,Madrid,España,crítico,33.0,cerrado,alarma,particular
+INC-01101,2025-10-20 14:45:16,,alarma,Ciudad de México,México,bajo,,abierto,alarma,empresa
+INC-01102,2025-10-20 21:29:44,2025-10-20 22:40:44,alarma,Rio de Janeiro,Brasil,medio,66.0,cerrado,alarma,particular
+INC-01103,2025-10-22 03:48:17,2025-10-22 04:52:17,otros,Antofagasta,Chile,medio,63.0,cerrado,sistema,empresa
+INC-01104,2025-10-22 17:05:12,2025-10-22 19:40:12,fallo técnico,Puebla,México,bajo,129.0,cerrado,sistema,empresa
+INC-01105,2025-10-22 17:38:38,2025-10-22 19:18:38,intrusión,Rio de Janeiro,Brasil,medio,99.0,cerrado,alarma,empresa
+INC-01106,2025-10-23 02:41:36,2025-10-23 03:47:36,alarma,Buenos Aires,Argentina,medio,66.0,cerrado,alarma,empresa
+INC-01107,2025-10-23 05:45:01,2025-10-23 08:28:01,robo,Buenos Aires,Argentina,bajo,142.0,cerrado,alarma,particular
+INC-01108,2025-10-24 06:17:41,2025-10-24 07:25:41,fallo técnico,Ciudad de México,México,crítico,16.0,cerrado,sistema,empresa
+INC-01109,2025-10-24 17:54:21,,alarma,Madrid,España,alto,,abierto,sensor,empresa
+INC-01110,2025-10-25 00:35:55,2025-10-25 01:38:55,intrusión,São Paulo,Brasil,medio,51.0,cerrado,sensor,particular
+INC-01111,2025-10-25 05:57:07,2025-10-25 08:47:07,intrusión,Monterrey,México,bajo,127.0,cerrado,alarma,particular
+INC-01112,2025-10-25 15:07:31,2025-10-25 16:28:31,robo,Puebla,México,alto,39.0,cerrado,sistema,empresa
+INC-01113,2025-10-25 18:34:47,2025-10-25 21:01:47,fallo técnico,Mendoza,Argentina,bajo,143.0,cerrado,sistema,particular
+INC-01114,2025-10-25 20:10:34,,otros,Barcelona,España,bajo,47.0,en proceso,alarma,particular
+INC-01115,2025-10-26 06:56:19,2025-10-26 08:53:19,intrusión,Madrid,España,medio,61.0,cerrado,cámara,particular
+INC-01116,2025-10-26 09:22:20,,sabotaje,Rosario,Argentina,medio,27.0,en proceso,sistema,empresa
+INC-01117,2025-10-26 12:40:19,2025-10-26 16:06:19,intrusión,Buenos Aires,Argentina,bajo,153.0,cerrado,alarma,empresa
+INC-01118,2025-10-26 21:22:28,2025-10-26 23:41:28,intrusión,Mendoza,Argentina,medio,86.0,cerrado,cámara,empresa
+INC-01119,2025-10-26 22:35:44,2025-10-27 00:31:44,robo,São Paulo,Brasil,medio,74.0,cerrado,cámara,empresa
+INC-01120,2025-10-29 16:05:06,2025-10-29 16:42:06,robo,Buenos Aires,Argentina,alto,27.0,cerrado,alarma,empresa
+INC-01121,2025-10-31 12:26:02,,alarma,Madrid,España,bajo,111.0,en proceso,alarma,particular
+INC-01122,2025-11-01 10:23:52,,alarma,Barcelona,España,bajo,,abierto,alarma,particular
+INC-01123,2025-11-01 15:39:26,2025-11-01 16:16:26,intrusión,Sevilla,España,alto,35.0,cerrado,alarma,empresa
+INC-01124,2025-11-01 17:46:55,2025-11-01 18:17:55,alarma,Rio de Janeiro,Brasil,crítico,5.0,cerrado,alarma,particular
+INC-01125,2025-11-02 03:49:27,2025-11-02 05:17:27,otros,Madrid,España,medio,56.0,cerrado,alarma,particular
+INC-01126,2025-11-02 10:15:26,,intrusión,Madrid,España,bajo,30.0,en proceso,alarma,empresa
+INC-01127,2025-11-02 12:08:38,2025-11-02 13:38:38,fallo técnico,Sevilla,España,medio,70.0,cerrado,sistema,empresa
+INC-01128,2025-11-03 23:24:33,2025-11-04 00:29:33,alarma,Zaragoza,España,alto,45.0,cerrado,alarma,particular
+INC-01129,2025-11-06 01:12:07,2025-11-06 02:45:07,fallo técnico,Ciudad de México,México,alto,58.0,cerrado,cámara,empresa
+INC-01130,2025-11-06 07:28:50,2025-11-06 09:40:50,alarma,Monterrey,México,bajo,92.0,cerrado,alarma,particular
+INC-01131,2025-11-07 05:34:14,2025-11-07 07:01:14,fallo técnico,Santiago,Chile,medio,75.0,cerrado,cámara,empresa
+INC-01132,2025-11-07 20:34:24,2025-11-07 22:27:24,robo,Valparaíso,Chile,medio,74.0,cerrado,cámara,empresa
+INC-01133,2025-11-08 00:03:44,2025-11-08 01:00:44,alarma,Rio de Janeiro,Brasil,alto,44.0,cerrado,alarma,particular
+INC-01134,2025-11-08 09:05:54,,alarma,Santiago,Chile,bajo,51.0,en proceso,alarma,empresa
+INC-01135,2025-11-08 18:35:22,2025-11-08 20:19:22,alarma,Antofagasta,Chile,bajo,79.0,cerrado,alarma,particular
+INC-01136,2025-11-09 03:21:19,,robo,Barcelona,España,medio,,abierto,alarma,empresa
+INC-01137,2025-11-09 20:27:08,,fallo técnico,Buenos Aires,Argentina,medio,30.0,en proceso,sistema,empresa
+INC-01138,2025-11-11 16:26:50,,fallo técnico,Ciudad de México,México,medio,,abierto,sistema,empresa
+INC-01139,2025-11-15 12:46:10,2025-11-15 13:43:10,alarma,Fortaleza,Brasil,medio,50.0,cerrado,alarma,particular
+INC-01140,2025-11-17 00:04:41,,intrusión,Rosario,Argentina,alto,19.0,en proceso,alarma,empresa
+INC-01141,2025-11-17 08:48:50,,alarma,Valencia,España,bajo,,abierto,alarma,empresa
+INC-01142,2025-11-17 11:55:42,2025-11-17 12:15:42,alarma,Buenos Aires,Argentina,crítico,14.0,cerrado,alarma,empresa
+INC-01143,2025-11-20 13:37:19,2025-11-20 16:03:19,alarma,São Paulo,Brasil,bajo,124.0,cerrado,cámara,empresa
+INC-01144,2025-11-22 09:05:08,2025-11-22 10:10:08,alarma,São Paulo,Brasil,alto,45.0,cerrado,alarma,particular
+INC-01145,2025-11-23 04:36:40,2025-11-23 05:44:40,sabotaje,Valparaíso,Chile,medio,57.0,cerrado,alarma,particular
+INC-01146,2025-11-23 09:20:03,2025-11-23 10:37:03,robo,Madrid,España,medio,77.0,cerrado,alarma,empresa
+INC-01147,2025-11-23 14:39:18,2025-11-23 16:18:18,robo,Madrid,España,medio,74.0,cerrado,sensor,empresa
+INC-01148,2025-11-24 16:36:00,2025-11-24 17:26:00,alarma,Buenos Aires,Argentina,crítico,9.0,cerrado,alarma,particular
+INC-01149,2025-11-26 00:09:54,,fallo técnico,Santiago,Chile,medio,,abierto,sistema,empresa
+INC-01150,2025-11-27 18:31:05,,alarma,Valencia,España,medio,18.0,en proceso,alarma,particular
+INC-01151,2025-11-30 01:44:50,2025-11-30 03:32:50,alarma,Buenos Aires,Argentina,medio,84.0,cerrado,alarma,empresa
+INC-01152,2025-12-02 07:08:19,2025-12-02 09:07:19,robo,Cartagena,Colombia,bajo,106.0,cerrado,cámara,particular
+INC-01153,2025-12-02 07:54:28,,alarma,Córdoba,Argentina,alto,,abierto,alarma,empresa
+INC-01154,2025-12-02 20:47:34,,alarma,Buenos Aires,Argentina,bajo,,abierto,alarma,particular
+INC-01155,2025-12-04 14:04:51,2025-12-04 16:16:51,robo,Cali,Colombia,medio,103.0,cerrado,alarma,empresa
+INC-01156,2025-12-05 09:07:21,2025-12-05 09:56:21,fallo técnico,Ciudad de México,México,alto,35.0,cerrado,alarma,empresa
+INC-01157,2025-12-06 00:24:03,2025-12-06 01:01:03,fallo técnico,Santiago,Chile,alto,33.0,cerrado,sensor,empresa
+INC-01158,2025-12-06 05:46:00,,alarma,Monterrey,México,bajo,55.0,en proceso,cámara,empresa
+INC-01159,2025-12-06 09:02:14,,robo,Zaragoza,España,alto,15.0,en proceso,cámara,empresa
+INC-01160,2025-12-07 09:12:24,,robo,Ciudad de México,México,bajo,102.0,en proceso,cámara,empresa
+INC-01161,2025-12-07 09:23:39,,robo,Buenos Aires,Argentina,alto,13.0,en proceso,sensor,particular
+INC-01162,2025-12-07 09:25:42,2025-12-07 11:02:42,alarma,Valencia,España,alto,41.0,cerrado,sistema,empresa
+INC-01163,2025-12-07 10:30:22,2025-12-07 10:59:22,otros,Valparaíso,Chile,crítico,16.0,cerrado,sensor,empresa
+INC-01164,2025-12-07 14:02:46,2025-12-07 15:19:46,intrusión,Buenos Aires,Argentina,medio,51.0,cerrado,sensor,empresa
+INC-01165,2025-12-08 23:46:33,2025-12-09 00:39:33,robo,São Paulo,Brasil,alto,34.0,cerrado,cámara,particular
+INC-01166,2025-12-10 15:12:15,,robo,Buenos Aires,Argentina,medio,39.0,en proceso,cámara,particular
+INC-01167,2025-12-11 05:17:44,,intrusión,Rio de Janeiro,Brasil,bajo,62.0,en proceso,cámara,empresa
+INC-01168,2025-12-13 01:06:36,2025-12-13 01:46:36,fallo técnico,Bogotá,Colombia,medio,34.0,cerrado,sistema,empresa
+INC-01169,2025-12-13 06:25:58,,alarma,Madrid,España,alto,,abierto,cámara,particular
+INC-01170,2025-12-13 09:29:42,2025-12-13 11:48:42,fallo técnico,Buenos Aires,Argentina,medio,94.0,cerrado,sistema,empresa
+INC-01171,2025-12-13 13:39:11,,alarma,Buenos Aires,Argentina,bajo,22.0,en proceso,alarma,empresa
+INC-01172,2025-12-13 21:03:59,2025-12-13 22:16:59,alarma,Rosario,Argentina,crítico,14.0,cerrado,alarma,particular
+INC-01173,2025-12-14 01:29:41,2025-12-14 03:06:41,alarma,São Paulo,Brasil,alto,43.0,cerrado,alarma,particular
+INC-01174,2025-12-14 12:15:09,2025-12-14 14:04:09,intrusión,Buenos Aires,Argentina,bajo,73.0,cerrado,cámara,empresa
+INC-01175,2025-12-14 13:08:16,2025-12-14 14:37:16,robo,Santiago,Chile,bajo,79.0,cerrado,cámara,empresa
+INC-01176,2025-12-14 17:28:29,2025-12-14 18:12:29,intrusión,Ciudad de México,México,alto,28.0,cerrado,sensor,particular
+INC-01177,2025-12-14 18:11:34,,intrusión,Madrid,España,bajo,,abierto,alarma,empresa
+INC-01178,2025-12-15 12:14:54,2025-12-15 13:41:54,fallo técnico,São Paulo,Brasil,medio,81.0,cerrado,sensor,empresa
+INC-01179,2025-12-16 02:22:26,2025-12-16 03:32:26,sabotaje,São Paulo,Brasil,alto,32.0,cerrado,cámara,empresa
+INC-01180,2025-12-18 03:32:46,,robo,Rosario,Argentina,bajo,60.0,en proceso,cámara,particular
+INC-01181,2025-12-19 05:31:08,2025-12-19 08:24:08,robo,Fortaleza,Brasil,bajo,133.0,cerrado,sistema,particular
+INC-01182,2025-12-20 09:16:14,2025-12-20 10:20:14,intrusión,Bogotá,Colombia,alto,20.0,cerrado,cámara,empresa
+INC-01183,2025-12-20 15:54:27,2025-12-20 16:48:27,intrusión,Buenos Aires,Argentina,crítico,30.0,cerrado,alarma,empresa
+INC-01184,2025-12-20 23:48:14,,otros,Brasília,Brasil,bajo,47.0,en proceso,alarma,empresa
+INC-01185,2025-12-21 02:35:18,2025-12-21 04:31:18,alarma,São Paulo,Brasil,bajo,67.0,cerrado,alarma,particular
+INC-01186,2025-12-21 18:17:54,2025-12-21 22:02:54,otros,Ciudad de México,México,bajo,181.0,cerrado,alarma,particular
+INC-01187,2025-12-21 20:04:24,,intrusión,Fortaleza,Brasil,medio,29.0,en proceso,alarma,empresa
+INC-01188,2025-12-22 11:52:29,2025-12-22 13:40:29,alarma,Buenos Aires,Argentina,medio,97.0,cerrado,alarma,empresa
+INC-01189,2025-12-22 20:10:38,2025-12-22 22:11:38,alarma,Ciudad de México,México,medio,81.0,cerrado,alarma,empresa
+INC-01190,2025-12-22 22:49:13,2025-12-23 00:50:13,intrusión,Antofagasta,Chile,bajo,73.0,cerrado,sensor,empresa
+INC-01191,2025-12-25 06:32:29,2025-12-25 08:54:29,intrusión,Córdoba,Argentina,medio,86.0,cerrado,sistema,empresa
+INC-01192,2025-12-26 19:17:33,,alarma,Barcelona,España,medio,44.0,en proceso,alarma,empresa
+INC-01193,2025-12-27 10:31:55,2025-12-27 12:53:55,otros,Monterrey,México,bajo,88.0,cerrado,sensor,particular
+INC-01194,2025-12-27 16:57:18,,alarma,Madrid,España,medio,,abierto,sensor,empresa
+INC-01195,2025-12-27 17:00:35,2025-12-27 19:01:35,intrusión,Rio de Janeiro,Brasil,medio,79.0,cerrado,sistema,empresa
+INC-01196,2025-12-28 11:35:30,,intrusión,Madrid,España,alto,20.0,en proceso,alarma,particular
+INC-01197,2025-12-28 20:25:17,2025-12-28 21:08:17,intrusión,Valencia,España,alto,22.0,cerrado,sensor,empresa
+INC-01198,2025-12-29 11:25:32,,fallo técnico,Santiago,Chile,alto,,abierto,sensor,empresa
+INC-01199,2025-12-30 07:59:33,2025-12-30 08:31:33,alarma,Santiago,Chile,medio,31.0,cerrado,sistema,empresa
+INC-01200,2025-12-30 09:19:46,,sabotaje,Rio de Janeiro,Brasil,medio,,abierto,cámara,particular

@@ -1,0 +1,5 @@
+requerimientos.txt
+PROYECTO_COMPLETO_EXPLICADO.txt
+__pycache__/
+*.pyc
+.env
